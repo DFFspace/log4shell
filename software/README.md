@@ -810,6 +810,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Devolutions | All products | | Not vuln | | [source](https://blog.devolutions.net/2021/12/critical-vulnerability-in-log4j/) | 
 | DirectAdmin | All products | | Not vuln | Invidivual plugins not developed as part of DirectAdmin core may be vulnerable. | [source](https://forum.directadmin.com/threads/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare.65173/post-339723) |
 | Docker | Docker infrastructure | Unknown | Not vuln | Docker infrastructure not vulnerable, Docker images could be vulnerable. For more info see source. |[source](https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/) |
+| DotCMS | Hybrid Content Management System | | Fix | | [source](https://github.com/dotCMS/core/issues/21393) |
 | Draytek | All products | Unknown | Not vuln | |[source](https://www.draytek.com/about/security-advisory/log4shell-vulnerability-(cve-2021-44228)/) |
 | Dräger | All Medical Devices | | Not Vuln | | [source](https://static.draeger.com/security) |
 | Dropwizard | Dropwizard | Unknown | Not vuln | Only vulnerable if you manually added Log4j |[source](https://twitter.com/dropwizardio/status/1469285337524580359) |
@@ -1808,12 +1809,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Riverbed        | UCExpert | | Vulnerable | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | WinSec Controller for SteelHead (WSC) | | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | RocketChat |All|All|Not Vuln||[source](https://rocket.chat/blog/log4j-software-vulnerability)|
-| Rockwell Automation | Warehouse Management | 4.01.00, 4.02.00, 4.02.01, 4.02.02 | Vulnerable | Patch under development | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
-| Rockwell Automation | MES EIG | 3.03.00 | Vulnerable | Product discontinued. Customers should upgrade to EIG Hub if possible or work with their local representatives about alternative solutions. | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
-| Rockwell Automation | Industrial Data Center | Gen 1, Gen 2, Gen 3, Gen 3.5 | Workaround | Follow the mitigation instructions outlined by VMware in VMSA-2021-0028 | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
-| Rockwell Automation | VersaVirtual | Series A | Workaround | Follow the mitigation instructions outlined by VMware in VMSA-2021-0028 | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
-| Rockwell Automation | FactoryTalk Analytics DataFlowML | 4.00.00 | Vulnerable | Patch under development | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
-| Rockwell Automation | FactoryTalk Analytics DataView | 3.03.00 | Vulnerable | Patch under development | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
 | RSA             | NetWitness Orchestrator | >= 6.0 | Workaround | Mitigation for the ThreatConnect Application server is available, no impact described | [source](https://community.rsa.com/t5/netwitness-platform-product/netwitness-apache-vulnerability-log4j2-cve-2021-44228-nbsp/ta-p/660540)
 | RSA             | NetWitness Platform | 11.4 | Workaround | It is theoretically possible to exploit the vulnerability to gain shell access to the NetWitness Platform | [source](https://community.rsa.com/t5/netwitness-platform-product/netwitness-apache-vulnerability-log4j2-cve-2021-44228-nbsp/ta-p/660540)
 | RSA             | NetWitness Platform | >= 11.5 | Workaround | It is possible to leak system configuration data | [source](https://community.rsa.com/t5/netwitness-platform-product/netwitness-apache-vulnerability-log4j2-cve-2021-44228-nbsp/ta-p/660540)
@@ -2086,11 +2081,11 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Tableau | Tableau Desktop | 2021.4| Vulnerable | | [source](https://www.tableau.com/support/releases/desktop/2021.4)
 | Tableau | Tableau Server | 2021.2.5| Vulnerable | | [source](https://www.tableau.com/support/releases/server/2021.2.5)
-| Tableau | Tableau Desktop | 2021.4.1 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
-| Tableau | Tableau Server | 2021.4.1 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
-| Tableau | Tableau Prep | 2021.4.2 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
-| Tableau | Tableau Bridge | 20214.21.1214.2057 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |Apache-Log4j2-vulnerability-Log4shell)
-| Tableau | Tableau Reader | unkown | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
+| Tableau | Tableau Desktop | 2021.4.1 | Fix available | [Fix](https://www.tableau.com/support/releases/desktop/2021.4.1) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
+| Tableau | Tableau Server | 2021.4.1 | Fix available | [Fix](https://www.tableau.com/support/releases/server/2021.4.1) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
+| Tableau | Tableau Prep | 2021.4.2 | Fix available | [Fix](https://www.tableau.com/support/releases/prep/2021.4.2) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
+| Tableau | Tableau Bridge | 20214.21.1214.2057 | Fix available | [Fix](https://www.tableau.com/support/releases/bridge/20214.21.1214.2057) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
+| Tableau | Tableau Reader | unkown | Fix Available | [Fix](https://www.tableau.com/products/reader?_ga=2.154005304.1064648072.1639643339-2071977377.1639643339) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
 | Tailscale | Tailscale | all | Not vuln | | [source](https://github.com/tailscale/tailscale/issues/3550) |
 | Talend | Talend Component Kit | | Fix | |[source](https://jira.talendforge.org/browse/TCOMP-2054) |
 | Tanium | All products | all | Not vuln | | [source](https://community.tanium.com/s/article/How-Tanium-Can-Help-with-CVE-2021-44228-Log4Shell#_Toc90296319)
