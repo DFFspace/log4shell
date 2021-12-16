@@ -1696,7 +1696,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Red Hat         | Red Hat OpenStack Platform 13 (Queens) opendaylight |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Process Automation 7 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Single Sign-On 7 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Virtualization 4 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/CVE-2021-4104#:~:text=affected%20packages%20and%20issued%20red%20hat%20security%20errata) |
 | Redgate | Flyway | all | Not Vuln | Only vulnerable when using non-default config. | [source](https://flywaydb.org/blog/flyway-log4j-vulnerability) |
 | Redis | Jedis | 3.7.1, 4.0.0-rc2 | Fix | Jedis uses the affected library in test suites only. | [source](https://redis.com/security/notice-apache-log4j2-cve-2021-44228/) |
 | Redis | Redis Enterprise & Open Source | all | Not Vuln | Redis Enterprise and Open Source Redis (self-managed software product) does not use Java and is therefore not impacted by this vulnerability | [source](https://redis.com/security/notice-apache-log4j2-cve-2021-44228/) |
@@ -2191,6 +2190,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | VMware       | NSX-T Data Center  | 3.x, 2.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87086) |
 | VMware       | Single Sign-On for VMware Tanzu Application Service  | 1.x | Fix | Fixed in 1.14.5 | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [fix](https://network.tanzu.vmware.com/products/pivotal_single_sign-on_service#/releases/1012467) |
 | VMware       | Site Recovery Manager   | 8.x | Vuln |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87098)|
+| VMware       | Skyline Collector virtual appliance  | | Not vuln | | [source](https://kb.vmware.com/s/article/87068) |
 | VMware       | Spring Boot  | < 2.5.8, < 2.6.2 | Workaround |   | [source](https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot) |
 | VMware       | Spring Cloud Gateway for Kubernetes  | 1.x | Vulnerable |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) |
 | VMware       | Spring Cloud Gateway for VMware Tanzu | 1.x | Fix | Fixed in 1.1.3 | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [fix](https://network.pivotal.io/products/spring-cloud-gateway#/releases/1014134)|
