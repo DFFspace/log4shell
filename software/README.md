@@ -38,20 +38,20 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Abbott | All | | Investigation | | [source](https://www.abbott.com/policies/cybersecurity/apache-Log4j.html) |
 | Accellence Technologies | vimacc | All | Not vuln | | [source](https://www.accellence.de/en/articles/cve-2021-44228-62)
 | Accellence Technologies | EB&#220;S | All | Workaround | EB&#220;S itself is not vulnerable to CVE-2021-44228. Although it includes several 3rd-partie software setups, which may be affected (see source for more info). | [source](https://www.accellence.de/en/articles/cve-2021-44228-62) 
+| Accruent       | Accruent Single Sign On (SSO, Central Auth) | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Analytics | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Asset Enterprise | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | BigCenter | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
-| Accruent       | Meridian | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | EMS | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Evoco | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Expesite | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Famis 360 | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Lucernex | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
-| Accruent       | Asset Enterprise | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Maintenance Connection | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Meridian | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | SiteFM3 | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | SiteFM4 | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Siterra | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
-| Accruent       | Accruent Single Sign On (SSO, Central Auth) | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | TMS | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | VxField | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | VxMaintain/VxObserve/VxSustain | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
@@ -1536,7 +1536,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Mirantis      | Mirantis OpenStack         |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | Lens                       |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | K0s                        |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
-| Mitel      | MiCollab |  >=7.1 to <=9.4 | Fix | Below v7.0 not vuln |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) |
+| Mitel      | MiCollab |  prior to and 9.4 | Fix |  |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) |
 | Mitel      | MiContact Center  Enterprise |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | MiContact Center Business |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | Mitel CMG Suite |  All | Investigation |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
