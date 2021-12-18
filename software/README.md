@@ -216,6 +216,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Backblaze      | Cloud | N/A (SaaS) | Fix | Cloud service patched |[source](https://help.backblaze.com/hc/en-us/articles/4412580603419) |
 | Barco          | Demetra | | Investigation | | [source](https://www.barco.com/en/support/knowledge-base/KB12495) |
+| Barco          | OpSpace | 1.8 | Workaround | | [source](https://www.barco.com/en/support/knowledge-base/KB12493) |
 | Barco          | Other products | | Not vuln | | [source](https://www.barco.com/en/support/knowledge-base/KB12495) |
 | Barco          | Projector Toolset | | Investigation | | [source](https://www.barco.com/en/support/knowledge-base/KB12495) |
 | Basis Technology | Autopsy | 4.18.0 onwards | Workaround | version 4.18.0 onwards use Apache Solr 8 | [source](https://www.autopsy.com/autopsy-and-log4j-vulnerability) |
@@ -751,13 +752,6 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | DBeaver | DBeaver | Unknown | Not vuln | |[source](https://dbeaver.io/2021/12/15/log4shell-vulnerability-is-not-dangerous-for-dbeaver-users/) |
 | Debian | Apache-log4j.1.2 | stretch, buster,  bullseye | Fix| |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
 | Debian | Apache-log4j2 | stretch, buster,  bullseye | Fix| |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
-| Decos | JOIN Zaak & Document (Private Cloud) | All | Vulnerable/Fix | The SaaS hosted solution contains Logstash + Elasticsearch (vulnerable). Mitigating actions taken | [source](https://decos.freshdesk.com/a/solutions/articles/17000121598?lang=nl) |
-| Decos | JOIN Zaak & Document (on-premise) | All | Vulnerable/Fix | The solution contains Elasticsearch (vulnerable). Mitigating actions available on our WIKI | [source](https://decos.freshdesk.com/a/solutions/articles/17000121598?lang=nl) |
-| Decos | JOIN Klant Contact | All | Not vuln |  |  |
-| Decos | Fixi | All | Not vuln |  |  |
-| Decos | Integrations (StUF/ZGW/Doclogic-DataIntegrator) | All | Not vuln |  |  |
-| Decos | EvenementenAssistent + InkomensAssistent + Leerlingenvervoer + AIM online | All | Not vuln |  |  |
-| Decos | Decos Cloud | All | Not vuln |  |  |
 | Dell | Alienware Command Center | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Dell | Alienware OC Controls | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Dell | Alienware On Screen Display | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
