@@ -70,14 +70,14 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Acronis       | Files Connect | 10.7 onwards | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | MassTransit | 8.1 and 8.2 | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | Snap Deploy | 5 and 6 | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
-| Acunetix | 360 | All | Not Vuln | | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
-| Acunetix | Application | All | Not Vuln |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
-| Acunetix | Agents | All | Not Vuln |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
-| Acunetix | IAST: NodeJS | All | Not Vuln |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
-| Acunetix | IAST: ASP. NET | All | Not Vuln |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
-| Acunetix | IAST: PHP | All | Not Vuln |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | 360 | All | Not vuln | | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | Application | All | Not vuln |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | Agents | All | Not vuln |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | IAST: NodeJS | All | Not vuln |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | IAST: ASP. NET | All | Not vuln |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | IAST: PHP | All | Not vuln |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
 | Acunetix | IAST: Java | All | Workaround| AcuSensor IAST module needs attention | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
-| Adobe         | Acrobat Reader | | Not Vuln | | [source](https://community.adobe.com/t5/acrobat-discussions/acrobat-affected-by-apache-log4j-vulnerability-cve-2021-44228/td-p/12590329?profile.language=fr) |
+| Adobe         | Acrobate Reader | | Not vuln | | [source](https://community.adobe.com/t5/acrobat-discussions/acrobat-affected-by-apache-log4j-vulnerability-cve-2021-44228/td-p/12590329?profile.language=fr) |
 | Adobe         | All | | Investigation | | [source](https://helpx.adobe.com/security/products/log4j-2-advisory.html) |
 | Adobe         | Automated Forms Conversion Service | | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Cold Fusion | All | Vulnerable | Fix planned for Dec 17th | [source](https://helpx.adobe.com/coldfusion/kb/log4j-vulnerability-coldfusion.html) |
@@ -96,14 +96,14 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Aiden | all | all | Not vuln | | [source](https://www.meetaiden.com/knowledge-base/is-aiden-vulnerable-to-cve-2021-44228-log4j-log4shell/) |
 | AIL           | AIL | all | Not vuln | | [source](https://twitter.com/ail_project/status/1470373644279119875) |
 | Alexion Software | Alexion CRM | All | Not vuln | | [source](https://alexion.nl/blog/alexion-crm-niet-vatbaar-voor-log4shell) |
-| Akamai        | Enterprise Application Access (EAA) connector |  | Not vulnerable |  | Source: Akamai support |
+| Akamai        | Enterprise Application Access (EAA) connector |  | Not vuln |  | Source: Akamai support |
 | Akamai        | Siem Splunk Connector | =>1.4.10 | Not vuln |  | [source](https://community.akamai.com/customers/s/feed/0D54R00008Osz7sSAB) (paywall) |
 | Akamai        | Siem Splunk Connector | <1.4.10 | Workaround | Akamai SIEM Integration Connector for Splunk is not vulnerable to CVE-2021-44228. Although it includes the vulnerable Log4J component, it is not used by the connector. | [source](https://github.com/akamai/siem-splunk-connector) |
 | Alertus        | Console              | 5.15.0| Fix | | [source](https://help.alertus.com/s/article/Security-Advisory-Log4Shell-Vulnerability?language=en_US) |
-| Alphatron        | AMiSconnect | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
+| Alphatron        | AMiSconnect | | Not vuln | | [source](https://www.alphatronmedical.com/home.html) |
 | Alphatron        | Custo diagnostics  | 5.4 to 5.6 | Vuln | Potentially vulnerable through the HL7 and DICOM communication interfaces | [source](https://www.alphatronmedical.com/home.html) |
-| Alphatron        | JiveX | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
-| Alphatron        | Zorgbericht | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
+| Alphatron        | JiveX | | Not vuln | | [source](https://www.alphatronmedical.com/home.html) |
+| Alphatron        | Zorgbericht | | Not vuln | | [source](https://www.alphatronmedical.com/home.html) |
 | Amazon        | AMS | | Fix | Work in progress, portion of customers may still be vulnerable. Actively monitoring this issue, and are working on addressing it for any AMS services which use Log4j2 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | API Gateway | | Fix | All hosts now patched |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS CloudHSM | 3.4.1 | Fix | CloudHSM JCE SDK 3.4.1 or higher is not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
@@ -150,7 +150,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Amazon        | Step Functions | | Fix | AWS Step Functions has been updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | Timestream | | Fix | Updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | WorkSpaces/AppStream 2.0 | | Fix | Not affected by CVE-2021-44228 with default configurations. WorkDocs Sync client versions 1.2.895.1 and older within Windows WorkSpaces, which contain the Log4j component, are vulnerable; For update instruction, see source for more info |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| AOMEI         | All Products | | Not Vuln | | [source](https://www.aomeitech.com/forum/index.php?p=/discussion/7651/aomei-and-log4j) |
+| AOMEI         | All Products | | Not vuln | | [source](https://www.aomeitech.com/forum/index.php?p=/discussion/7651/aomei-and-log4j) |
 | Apache        | Archiva | <2.2.6 | Fix | Fixed in 2.2.6 | [source](https://blogs.apache.org/security/entry/cve-2021-44228), [fix](https://lists.apache.org/thread/bmvhs0jxhf4vxcjxyhozm058pchykcqx) |
 | Apache        | Camel | all | Not vuln | |[source](https://camel.apache.org/blog/2021/12/log4j2/) |
 | Apache        | Cassandra | all | Not vuln | |[source](https://lists.apache.org/thread/2rngylxw8bjos6xbo1krp29m9wn2hhdr) |
@@ -170,7 +170,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Apache        | Kafka | All versions | Not vuln | Uses log4j 1.x |[source](https://lists.apache.org/thread/lgbtvvmy68p0059yoyn9qxzosdmx4jdv) |
 | Apache        | Karaf | Unknown | Vulnerable | Depends on [PAX logging](https://github.com/ops4j/org.ops4j.pax.logging/issues/414) which is affected |[source](https://mail-archives.apache.org/mod_mbox/karaf-dev/202112.mbox/browser) |
 | Apache        | Log4j | 2.16.0 | Fix | |[source](https://logging.apache.org/log4j/2.x/security.html) |
-| Apache        | Maven | All Versions | Not Vuln |  |[source](https://blogs.apache.org/security/entry/cve-2021-44228) |
+| Apache        | Maven | All Versions | Not vuln |  |[source](https://blogs.apache.org/security/entry/cve-2021-44228) |
 | Apache        | NiFi | All Versions| Fix | Fixed in 1.15.1, 1.16.0 | [source](https://issues.apache.org/jira/browse/NIFI-9474) |
 | Apache        | OFBiz | < 18.12.03 | Fix | Fixed in 18.12.03 | [source](https://blogs.apache.org/security/entry/cve-2021-44228) |
 | Apache        | Ozone | < 1.2.1 | Fix | Fixed in 1.2.1 | [source](https://blogs.apache.org/security/entry/cve-2021-44228) |
@@ -207,8 +207,8 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Atlassian     | Jira Server & Data Center | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version fixed |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Autodesk     | All | | Investigation | | [source](https://www.autodesk.com/trust/overview) |
 | Avaya         | | | | | [source](https://support.avaya.com/helpcenter/getGenericDetails?detailId=1399839287609) |
-| AVM           | all products | devices, firmware, software incl. MyFritz Service | Not Vuln |  | [source](https://en.avm.de/service/current-security-notifications/) |
-| AXIS          | AXIS OS | All versions | Not Vuln | | [source](https://help.axis.com/axis-os) |
+| AVM           | all products | devices, firmware, software incl. MyFritz Service | Not vuln |  | [source](https://en.avm.de/service/current-security-notifications/) |
+| AXIS          | AXIS OS | All versions | Not vuln | | [source](https://help.axis.com/axis-os) |
 
 ### B
 
@@ -239,7 +239,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | BigBlueButton   | BigBlueButton | Unknown | Not vuln | |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897) |
 | Bitdefender   | GravityZone On-Premises | Unknown | Not vuln | |[source](https://businessinsights.bitdefender.com/security-advisory-bitdefender-response-to-critical-0-day-apache-log4j2-vulnerability) |
 | Bitnami       | Unknown | Unknown | Fix | |[source](https://docs.bitnami.com/general/security/security-2021-12-10/) |
-| Bitwarden     | Bitwarden | All | Not Vuln | | [source](https://community.bitwarden.com/t/log4j-log4shell-cve-is-bitwarden-affected-due-to-docker-image/36177) |
+| Bitwarden     | Bitwarden | All | Not vuln | | [source](https://community.bitwarden.com/t/log4j-log4shell-cve-is-bitwarden-affected-due-to-docker-image/36177) |
 | BioJava       | Java library for processing biological data | 6.0.3 | Fix | |[source](https://github.com/biojava/biojava/releases/tag/biojava-6.0.3) |
 | BlackBerry    | Enterprise Mobility Server | 2.12 and above | Workaround | |[source](https://support.blackberry.com/community/s/article/90708) |
 | BlackBerry    | Workspaces On-prem Server | All | Workaround | |[source](https://support.blackberry.com/community/s/article/90708) |
@@ -653,20 +653,20 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Citrix | Analytics | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Application Delivery Management (NetScaler MAS)  | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Endpoint Management (XenMobile Server)  | 10.12 RP10, 10.13 RP5 and 10.14 RP2 | Fix |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | Hypervisor (XenServer)   | Unknown | Not Vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Hypervisor (XenServer)   | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | NetScaler ADC | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | NetScaler Gateway | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | SD-WAN  | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Sharefile  | Unknown | Not vuln  |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | Virtual Apps and Desktops (XenApp & XenDesktop) | Unknown | Investigation | Not vulnerable: App Layering, Delivery Controller, Director, FAS, HDX, Profile Management, PVS, Session Recording, Storefront, Studio, Windows VDA, WEM | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Virtual Apps and Desktops (XenApp & XenDesktop) | Unknown | Investigation | not vulnerable: App Layering, Delivery Controller, Director, FAS, HDX, Profile Management, PVS, Session Recording, Storefront, Studio, Windows VDA, WEM | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Workspace App  | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Workspace  | Unknown | Not vuln  |  | [source](https://support.citrix.com/article/CTX335705) |
-| Clavister    | EasyAccess  | <= 4.1.2 | Fix |  | [source](https://kb.clavister.com/343410234/high-severity-vulnerability-in-apache-log4j-2) |
-| Clavister    | InCenter  | <= 1.68.03, 2.0.0 and 2.1.0 | Fix |  | [source](https://kb.clavister.com/343410462/vulnerability-in-apache-log4j-2-which-is-used-in-incenter) |
-| Clavister    | InControl  |  | Not vuln |  | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
-| Clavister    | NetShield  |  | Not vuln |  | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
-| Clavister    | NetWall |  | Not vuln |  | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
-| Clavister    | OneConnect  |  | Not vuln |  | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | NetWall | - | Not vuln  |  | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | NetShield  | - | Not vuln  |  | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | InControl  | - | Not vuln  |  | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | OneConnect  | - | Vulnerable  | Fixed | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | EasyAccess  | <= 4.1.2 | Vulnerable  | See link for fix | [source](https://kb.clavister.com/343410234/high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | InCenter  | <= 1.68.03, 2.0.0 and 2.1.0 | Vulnerable  | See link for fix | [source](https://kb.clavister.com/343410462/vulnerability-in-apache-log4j-2-which-is-used-in-incenter) |
 | Cockroach Labs | CockroachDB | - | Not vuln | | [source](https://www.cockroachlabs.com/docs/advisories/acve-2021-44228#statement) |
 | CODESYS | all | all | Not vuln  || [source](https://www.codesys.com/news-events/news/article/log4j-not-used-in-codesys.html) |
 | Commvault | Cloud Apps & Oracle & MS-SQL | All supported versions | Fix || [source](https://documentation.commvault.com/11.24/essential/146231_security_vulnerability_and_reporting.html) |
@@ -676,13 +676,13 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Compumatica | MagiCtwin | all | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
 | Compumatica | MASC | all | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
 | Confluence | CIS CSAT Pro | v1.7.1 | Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
-| Confluence | CIS WorkBench | | Not Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
+| Confluence | CIS WorkBench | | Not vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Confluence | CIS-CAT Lite | v4.13.0 | Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Confluence | CIS-CAT Pro Assessor v3 Full and Dissolvable | v3.0.77 | Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Confluence | CIS-CAT Pro Assessor v4 | v4.13.0 | Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Confluence | CIS-CAT Pro Assessor v4 Service | v1.13.0 | Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
-| Confluence | CIS-CAT Pro Dashboard | | Not Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
-| Confluence | CIS-Hosted CSAT | | Not Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
+| Confluence | CIS-CAT Pro Dashboard | | Not vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
+| Confluence | CIS-Hosted CSAT | | Not vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Confluent | Confluent Cloud | | Fix | server-side fix | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
 | Confluent | Confluent Community Platform | | Not vuln | | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
 | Confluent | Confluent Platform | 7.0.1 | Fix | | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
@@ -711,11 +711,11 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Cryptshare | Cryptshare .NET API | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
 | Cryptshare | Cryptshare Robot | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
 | Cryptshare | Cryptshare Server | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
-| Cyberark  | Cloud Entitlements Manager || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
-| Cyberark  | Endpoint Privilege Manager (EPM) - Agents || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
-| Cyberark  | Endpoint Privilege Manager (EPM) - EPM Server (On-Premise) || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
-| Cyberark  | Endpoint Privilege Manager (EPM) - Service (SaaS) || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
-| Cyberark  | HTML5 Gateway || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Cloud Entitlements Manager || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Endpoint Privilege Manager (EPM) - Agents || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Endpoint Privilege Manager (EPM) - EPM Server (On-Premise) || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Endpoint Privilege Manager (EPM) - Service (SaaS) || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | HTML5 Gateway || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
 | Cyberark  | Identity - Mobile App || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
 | Cyberark  | Identity - On-Premise Components || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
 | Cyberark  | Identity - Secure Web Sessions (SWS) || Fix | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
@@ -724,9 +724,9 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Cyberark  | Marketplace components - Certified and Trusted Marketplace Components || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
 | Cyberark  | Marketplace components - CPM Plugins || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
 | Cyberark  | Marketplace components - PSM Connection Components || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
-| Cyberark  | On-Demand Privileges Manager (OPM) || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
-| Cyberark  | PAS Self Hosted (Vault, PVWA, CPM, PSM, PSMP) || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
-| Cyberark  | Privilege Cloud - On-Premise Components || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | On-Demand Privileges Manager (OPM) || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | PAS Self Hosted (Vault, PVWA, CPM, PSM, PSMP) || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Privilege Cloud - On-Premise Components || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
 | Cyberark  | Privilege Cloud - Service (SaaS) || Fix | Mitigation applied. No further action required by customers | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
 | Cyberark  | Privileged Threat Analytics (PTA) || Workaround | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228), [workaround](https://cyberark-customers.force.com/s/article/PTA-CVE-2021-44228-Mitigation-for-Privilege-Threat-Analytics) |
 | Cyberark  | Remote Access (Alero) - Connector || Fix | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
@@ -864,7 +864,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Docker | Docker infrastructure | Unknown | Not vuln | Docker infrastructure not vulnerable, Docker images could be vulnerable. For more info see source. |[source](https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/) |
 | DotCMS | Hybrid Content Management System | | Fix | | [source](https://github.com/dotCMS/core/issues/21393) |
 | Draytek | All products | Unknown | Not vuln | |[source](https://www.draytek.com/about/security-advisory/log4shell-vulnerability-(cve-2021-44228)/) |
-| Dräger | All Medical Devices | | Not Vuln | | [source](https://static.draeger.com/security) |
+| Dräger | All Medical Devices | | Not vuln | | [source](https://static.draeger.com/security) |
 | Dropwizard | Dropwizard | Unknown | Not vuln | Only vulnerable if you manually added Log4j |[source](https://twitter.com/dropwizardio/status/1469285337524580359) |
 | Dynatrace | ActiveGates | 1.229.49.20211210-165018, 1.227.31.20211210-164955, 1.225.29.20211210-164930, 1.223.30.20211210-164926 | Fix | |[source](https://community.dynatrace.com/t5/Dynatrace-Open-Q-A/Impact-of-log4j-zero-day-vulnerability/m-p/177259/highlight/true#M19282) |
 | Dynatrace | Dynatrace Cloud Services | Unknown | Fix | | [source](https://community.dynatrace.com/t5/Dynatrace-Open-Q-A/Impact-of-log4j-zero-day-vulnerability/m-p/177259/highlight/true#M19282) |
@@ -873,39 +873,39 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| EAL | ATS Classic | All Versions | Not Vuln | | See vendor-statements |
+| EAL | ATS Classic | All Versions | Not vuln | | See vendor-statements |
 | EclecticIQ | TIP | < 2.11 | Vulnerable | The Threat Intel Platform includes Neo4j 3.5.12 (not vulnerable) and Elasticsearch and Logstash OSS 7.9.1 (vulnerable) see Elasticsearch below for mitigation. see link in their own fix for Logstash (Support account needed, ongoing investigation) | [source/fix](https://docs.eclecticiq.com/security-advisories/security-issues-and-mitigation-actions/eiq-2021-0016-2) |
 | Elastic         | APM Java Agent | 1.17.0-1.28.0 | Workaround |  Only vulnerable with specific configuration | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | APM Server | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Beats | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Cmd | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Elastic Agent | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Elastic Cloud Enterprise | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Elastic Cloud | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Elastic Cloud on Kubernetes | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Elastic Endgame | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Elastic Maps Service | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | APM Server | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Beats | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Cmd | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Elastic Agent | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Elastic Cloud Enterprise | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Elastic Cloud | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Elastic Cloud on Kubernetes | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Elastic Endgame | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Elastic Maps Service | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Elasticsearch | < 6.8.9, 7 - 7.8  | Fix | Information leakage vulnerability, Fixed in 7.16.1 and 6.8.21 | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Endpoint Security | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Enterprise Search | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Fleet Server | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Kibana | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Endpoint Security | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Enterprise Search | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Fleet Server | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Kibana | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Logstash | < 6.8.21, < 7.16.1 | Fix | No known remote code execution exposure, Fixed in 6.8.21, 7.16.1 | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Machine Learning | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Machine Learning | | Not vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Swiftype | | Investigation |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| ELO | Digital Office || Not Vuln || [source](http://www.elo.com)|
-| Enfocus | BoardingPass | All | Not Vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
-| Enfocus | Connect | All | Not Vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
-| Enfocus | Switch | All | Not Vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
-| Enfocus | PDF Review Module | All | Not Vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
-| Enfocus | PitStop | All | Not Vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
-| Enovation | All | | Not Vuln | | [source](https://enovationgroup.com/nl/nieuws/log4j-vulnerability-cve-2021-44228/) |
+| ELO | Digital Office || Not vuln || [source](http://www.elo.com)|
+| Enfocus | BoardingPass | All | Not vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
+| Enfocus | Connect | All | Not vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
+| Enfocus | Switch | All | Not vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
+| Enfocus | PDF Review Module | All | Not vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
+| Enfocus | PitStop | All | Not vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
+| Enovation | All | | Not vuln | | [source](https://enovationgroup.com/nl/nieuws/log4j-vulnerability-cve-2021-44228/) |
 | ESET | All products | Unknown | Not vuln | |[source](https://support.eset.com/en/alert8188-information-regarding-the-log4j2-vulnerability) |
 | ESET | Secure Authentication | Unknown | Workaround | |[source](https://support.eset.com/en/kb8190-vulnerability-log4j2-in-the-reporting-engine-elasticsearch-of-eset-secure-authentication?ref=esf) |
 | Esri | ArcGIS Enterprise and related products | < 10.8.0 | Workaround | See source for workaround  | [source](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-software-and-cve-2021-44228-aka-log4shell-aka-logjam/) |
 | estos            | All products | Unknown | Not vuln | |[source](https://support.estos.de/de/sicherheitshinweise/estos-von-kritischer-schwachstelle-in-log4j-cve-2021-44228-nicht-betroffen) |
 | EVL Labs | JGAAP | <8.0.2 | Fix | | [source](https://github.com/evllabs/JGAAP/releases/tag/v8.0.2) |
-| Exivity | Exivity On-Premise | All version | Not Vuln | | [source](https://docs.exivity.com/getting-started/releases/announcements#announcement-regarding-cve-2021-44228) |
+| Exivity | Exivity On-Premise | All version | Not vuln | | [source](https://docs.exivity.com/getting-started/releases/announcements#announcement-regarding-cve-2021-44228) |
 | Exact | All Products | | Not vuln | | [source NL](https://www.exact.com/nl/nieuws/algemeen-statement-apache-lek), [source EN](https://www.exact.com/news/general-statement-apache-leak) |
 | Evolveum | midPoint || Not vuln | | [source](https://evolveum.com/midpoint-not-vulnerable-to-log4shell/) |
 | Extensis | Universal Type Server | =>7.0.6 | Fix | |[source](https://help.extensis.com/hc/en-us/articles/4412767414299-Universal-Type-Server-7-and-Log4j-vulnerabilities)  |
@@ -946,7 +946,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-|F5| All products | |Not Vuln | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
+|F5| All products | |Not vuln | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
 | Fiix | CMMS core | V5  | Fix | | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
 |FileCap| FileCap Server | 5.1.1 | Fix | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
 |FileCap| FileCap Plugins || Not vuln | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
@@ -971,42 +971,42 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 |Forcepoint |Security Manager (Web, Email and DLP)                                                ||Workaround | |[source](https://support.forcepoint.com)|
 |Forcepoint |Web Security                                                                         ||Investigation | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forescout | | | Investigation | | [source](https://www.forescout.com/blog/forescout%e2%80%99s-response-to-cve-2021-44228-apache-log4j-2/) |
-|ForgeRock        | Autonomous Identity |  | Workaround | all other ForgeRock products not vuln | [source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa)  |
+|ForgeRock        | Autonomous Identity |  | Workaround | all other ForgeRock products Not vuln | [source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa)  |
 |Fortinet| FortiAIOps| version < 1.0.1 |Vulnerable| Fixed in version 1.0.2 |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiAnalyzer Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiAnalyzer| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiAP| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiAuthenticator| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiAnalyzer Cloud| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiAnalyzer| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiAP| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiAuthenticator| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiCASB| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiConvertor| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiDeceptor| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiEDR Agent| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiDeceptor| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiEDR Agent| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiEDR Cloud| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiGate Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiGSLB Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiMail| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiManager Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiManager| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiGate Cloud| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiGSLB Cloud| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiMail| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiManager Cloud| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiManager| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiNAC| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiOS (includes FortiGate & FortiWiFi)| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiPhish Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiOS (includes FortiGate & FortiWiFi)| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiPhish Cloud| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiPolicy| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiPortal | Fix |Vulnerable| Fixed in version 6.0.8 and 5.3.8 |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiRecorder| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiRecorder| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiSIEM| Workaround |Vulnerable| [Mitigation steps](https://community.fortinet.com/t5/FortiSIEM/Techincal-Tip-FortiSIEM-Log4j-Mitigating-CVE-2021-44228/ta-p/201008) |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiSOAR| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiSwitch Cloud in FortiLANCloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiSwitch & FortiSwitchManager| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiToken Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiVoice| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiWeb Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiSwitch Cloud in FortiLANCloud| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiSwitch & FortiSwitchManager| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiToken Cloud| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiVoice| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiWeb Cloud| |Not vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| ShieldX| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fujitsu| ServerView Suite | Unknown | Vulnerable | Log4j v2.12 present in ServerView Operations Manager |[source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf)|
 |Fujitsu| SecDocs | Unknown | Vulnerable ||[source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf)|
 |F-Secure| Endpoint Proxy | 13-15| Fix| |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
 |F-Secure| Policy Manager | 13-15| Fix| |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
 |F-Secure| Policy Manager Proxy| 13-15| Fix | |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
-|FusionAuth| FusionAuth| 1.32|Not Vuln||[source](https://fusionauth.io/blog/2021/12/10/log4j-fusionauth/)|
+|FusionAuth| FusionAuth| 1.32|Not vuln||[source](https://fusionauth.io/blog/2021/12/10/log4j-fusionauth/)|
 
 ### G
 
@@ -1016,7 +1016,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | GeoSolutions | GeoServer |All versions | Not vuln ||[source](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
 | GeoSolutions | Geonetwork | All versions | Workaround ||[source](https://my.geocat.net/knowledgebase/125/Log4j-RCE-CVE-2021-44228-vulnerability-patch.html)|
 | GFI Software | Kerio Connect | | Vulnerable | | [source](https://forums.gfi.com/index.php?t=msg&th=39096&start=0&)|
-| Ghisler | Total Commander | All | Not Vuln | Third Party plugins might contain log4j | [source](https://www.ghisler.com/whatsnew.htm) |
+| Ghisler | Total Commander | All | Not vuln | Third Party plugins might contain log4j | [source](https://www.ghisler.com/whatsnew.htm) |
 | GitHub | Github Enterprise Server | 3.3.1, 3.2.6, 3.1.14, 3.0.22 | Fix | | [source](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/) |
 | GitLab | DAST analyzer | | Not vuln | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
 | GitLab | Dependency Scanning | | Fix | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
@@ -1043,14 +1043,14 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | HackerOne | Unknown | Unknown | Fix ||[source](https://twitter.com/jobertabma/status/1469490881854013444)|
-| Hashicorp| All products | |Not Vuln | | [source](https://support.hashicorp.com/hc/en-us/articles/4412469195795-CVE-2021-44228-Log4J-has-no-impact-on-HashiCorp-Products)|
-| HCL Software | BigFix Insights | Unknown | Not vuln |  not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-| HCL Software | BigFix Insights for Vulnerability Remediation | Unknown | Not vuln |  not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-| HCL Software | BigFix Compliance | > 2.0.1 ; < 2.0.4 | Workaround |  not vuln for CVE-2021-45046 | [source](https://forum.bigfix.com/t/bigfix-compliance-has-a-remediation-for-log4j-vulnerability-cve-2021-44228/40197)|
-| HCL Software | BigFix Inventory | < 10.0.7 | Workaround |  not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-| HCL Software | BigFix Lifecycle | Unknown | Not vuln |  not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-| HCL Software | BigFix Mobile | Unknown | Not vuln |  not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-| HCL Software | BigFix Patch | Unknown | Not vuln |  not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| Hashicorp| All products | |Not vuln | | [source](https://support.hashicorp.com/hc/en-us/articles/4412469195795-CVE-2021-44228-Log4J-has-no-impact-on-HashiCorp-Products)|
+| HCL Software | BigFix Insights | Unknown | Not vuln |  Not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Insights for Vulnerability Remediation | Unknown | Not vuln |  Not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Compliance | > 2.0.1 ; < 2.0.4 | Workaround |  Not vuln for CVE-2021-45046 | [source](https://forum.bigfix.com/t/bigfix-compliance-has-a-remediation-for-log4j-vulnerability-cve-2021-44228/40197)|
+| HCL Software | BigFix Inventory | < 10.0.7 | Workaround |  Not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Lifecycle | Unknown | Not vuln |  Not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Mobile | Unknown | Not vuln |  Not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Patch | Unknown | Not vuln |  Not vuln for CVE-2021-45046 | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | Heimdal Security | web-based services | Cloud | Not vuln || [source](https://heimdalsecurity.com/blog/log4j-vulnerability/) |
 | Helpsystems | Clearswift Secure Email Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
 | Helpsystems | Clearswift Secure Exchange Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
@@ -1254,16 +1254,16 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Illumio | QRadar App | | Not vuln | | [source](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)|
 | Illumio | Splunk App | | Not vuln | | [source](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)|
 | Illumio | VEN | | Not vuln | | [source](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)|
-| Imprivata | ConfirmID | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
-| Imprivata | Cortext | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
-| Imprivata | GroundControl | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
-| Imprivata | Identity Governance | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
-| Imprivata | Mobile Device Access | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
-| Imprivata | OneSign | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | ConfirmID | | Not vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | Cortext | | Not vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | GroundControl | | Not vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | Identity Governance | | Not vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | Mobile Device Access | | Not vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | OneSign | | Not vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
 | Imprivata | PAM | | Fix | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?urlName=IPAM-Log4j-CVE-2021-44228-vulnerability-mitigation)|
-| Imprivata | PatientSecure | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
-| Inductive Automation | Ignition | All versions | Not Vuln| | [source](https://support.inductiveautomation.com/hc/en-us/articles/4416204541709-Regarding-CVE-2021-44228-Log4j-RCE-0-day) |
-| Influxdata | All | All versions | Not Vuln| | [source](https://www.influxdata.com/blog/apache-log4j-vulnerability-cve-2021-44228/) |
+| Imprivata | PatientSecure | | Not vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Inductive Automation | Ignition | All versions | Not vuln| | [source](https://support.inductiveautomation.com/hc/en-us/articles/4416204541709-Regarding-CVE-2021-44228-Log4j-RCE-0-day) |
+| Influxdata | All | All versions | Not vuln| | [source](https://www.influxdata.com/blog/apache-log4j-vulnerability-cve-2021-44228/) |
 | Informatica | Axon | 7.2.x | Workaround |  | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
 | Informatica | Data Privacy Management | 10.5, 10.5.1 | Workaround |  | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
 | Informatica | Information Deployment Manager |  | Fix | | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
@@ -1272,44 +1272,44 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Informatica | PowerExchange for CDC (Publisher) and Mainframe | 10.5.1 | Workaround | | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
 | Informatica | Product 360 | All versions | Workaround  | | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
 | Informatica | Secure Agents (Cloud hosted)| Unknown | Fix | Fixed agents may need to be restarted| [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-updates-for-Informatica-Cloud-and-Cloud-Hosted-Software) |
-| Infoblox | All products | All versions | Not Vuln | | [source](https://blogs.infoblox.com/security/infoblox-response-to-apache-log4j-vulnerability/) |
-| Infoland | iQualify | | Not Vuln | | [source](https://community.infoland.nl/infoland-nieuws-128/geen-beveiligingslek-apache-log4j2-zenya-iprova-en-iqualify-3589) |
-| Infoland | Zenya (iProva) | | Not Vuln | | [source](https://community.infoland.nl/infoland-nieuws-128/geen-beveiligingslek-apache-log4j2-zenya-iprova-en-iqualify-3589) |
-| INIT GmbH | AppComm | | Not Vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
-| INIT GmbH | MOBILE-PERDIS | | Not Vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
+| Infoblox | All products | All versions | Not vuln | | [source](https://blogs.infoblox.com/security/infoblox-response-to-apache-log4j-vulnerability/) |
+| Infoland | iQualify | | Not vuln | | [source](https://community.infoland.nl/infoland-nieuws-128/geen-beveiligingslek-apache-log4j2-zenya-iprova-en-iqualify-3589) |
+| Infoland | Zenya (iProva) | | Not vuln | | [source](https://community.infoland.nl/infoland-nieuws-128/geen-beveiligingslek-apache-log4j2-zenya-iprova-en-iqualify-3589) |
+| INIT GmbH | AppComm | | Not vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
+| INIT GmbH | MOBILE-PERDIS | | Not vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
 | INIT GmbH | Mobile Plan | 4.22.x and 5.x  | Vulnerable | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
-| INIT GmbH | WebComm | | Not Vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
+| INIT GmbH | WebComm | | Not vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
 | Intel | Audio Development Kit |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | Datacenter Manager |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | oneAPI sample browser plugin for Eclipse |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | System Debugger |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | Secure Device Onboard |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
-| InterSystems | API Manager |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | Atelier Integration |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | Cache |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | API Manager |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | Atelier Integration |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | Cache |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
 | InterSystems | Ensemble |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | FHIR Accelerator |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Care Community |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Clinical Viewer | 2019.2 to 2021.1 | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | FHIR Accelerator |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | HealthShare Care Community |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | HealthShare Clinical Viewer | 2019.2 to 2021.1 | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
 | InterSystems | HealthShare Health Connect |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Health Insight |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Message Transformation Service |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Patient Index |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Personal Community |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Provider Directory |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Unified Care Record |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | HealthShare Health Insight |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | HealthShare Message Transformation Service |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | HealthShare Patient Index |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | HealthShare Personal Community |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | HealthShare Provider Directory |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | HealthShare Unified Care Record |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
 | InterSystems | Health Integration as a Service |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | InterSystems Cloud Manager |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | IRIS |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | InterSystems Cloud Manager |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | IRIS |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
 | InterSystems | IRIS for Health |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
 | InterSystems | ISC Reports |  | Vulnerable | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
 | InterSystems | TrakCare Core |  | Vulnerable | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
 | InterSystems | TrakCare Editions |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
 | InterSystems | TrakCare Lab |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | VS Code Integration |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
+| InterSystems | VS Code Integration |  | Not vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
 | IronNet | All products | All verisons | Investigation | | [source](https://www.ironnet.com/blog/ironnet-security-notifications-related-to-log4j-vulnerability) |
-| ISL Online | All products | All versions | Not Vuln | | [source](https://blog.islonline.com/2021/12/13/isl-online-is-not-affected-by-log4shell-vulnerability/) |
-| ISPNext | All products | All versions | Not Vuln | | [source](vendor-statements/ISPNext.png) |
+| ISL Online | All products | All versions | Not vuln | | [source](https://blog.islonline.com/2021/12/13/isl-online-is-not-affected-by-log4shell-vulnerability/) |
+| ISPNext | All products | All versions | Not vuln | | [source](vendor-statements/ISPNext.png) |
 | Ivanti | Avalache | 6.3.[0-3] | Fix | Information behind login | [source](https://forums.ivanti.com/s/article/CVE-2021-44228-Avalanche-Remote-code-injection-Log4j) |
 | Ivanti | Core Connector | All versions | Workaround | Information behind login | [source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j) |
 | Ivanti | File Director | All versions | Workaround | Information behind login | [source](https://forums.ivanti.com/s/article/Apache-Log4j-Zero-Day-Vulnerability-and-Ivanti-File-Director-CVE-2021-44228) |
@@ -1321,20 +1321,20 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| JFrog | all products | | Not Vuln | | [source](https://twitter.com/jfrog/status/1469385793823199240) |
+| JFrog | all products | | Not vuln | | [source](https://twitter.com/jfrog/status/1469385793823199240) |
 | Jamf Nation     | Jamf Cloud | Unknown| Fix | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 | Jamf Nation     | Jamf Pro (hosted on-prem) | < 10.34.1 |  See notes | <10.14 vulnerable, 10.14-10.34 patch, >= 10.34.1 fix | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740) |
-| Jamf Nation | Health Care Listener| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-| Jamf Nation | Jamf Connect | Unknown | Not Vuln | |[source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-| Jamf Nation | Jamf Data Policy| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-| Jamf Nation | Jamf Infrastructure Manager| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-| Jamf Nation | Jamf Now | Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-| Jamf Nation | Jamf Private Access | Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-| Jamf Nation | Jamf Protect | Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-| Jamf Nation | Jamf School| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-| Jamf Nation | Jamf Threat Defense| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Health Care Listener| Unknown | Not vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Connect | Unknown | Not vuln | |[source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Data Policy| Unknown | Not vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Infrastructure Manager| Unknown | Not vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Now | Unknown | Not vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Private Access | Unknown | Not vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Protect | Unknown | Not vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf School| Unknown | Not vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Threat Defense| Unknown | Not vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 | Jazz/IBM | JazzSM DASH | Unknown | See notes | DASH on WebSphere Application Server requires mitigations | [source](https://www.ibm.com/support/pages/node/6525552) |
-| Jenkins | Jenkins CI | Unknown | Not Vuln | Invidivual plugins not developed as part of Jenkins core *may* be vulnerable. | [source](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) |
+| Jenkins | Jenkins CI | Unknown | Not vuln | Invidivual plugins not developed as part of Jenkins core *may* be vulnerable. | [source](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) |
 | JetBrains | IntelliJ platform based IDEs (AppCode, CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA Ultimate/Community/Edu, PhpStorm, PyCharm Professional/Community/Edu, Rider, RubyMine, WebStorm) | Unknown | Not vuln | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
 | JetBrains | All .NET tools (ReSharper, Rider, ReSharper C++, dotTrace, dotMemory, dotCover, dotPeek) | Unknown | Not vuln | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
 | JetBrains | ToolBox | Unknown | Not vuln | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
@@ -1353,69 +1353,69 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | JetBrains | UpSource | 2020.1.1952 | Fix | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
 | JGraph | DrawIO | All | Not vuln || [source](https://github.com/jgraph/drawio/issues/2490) |
 | Jitsi | jitsi-videobridge | v2.1-595-g3637fda42 | Fix  | | [source](https://github.com/jitsi/security-advisories/blob/4e1ab58585a8a0593efccce77d5d0e22c5338605/advisories/JSA-2021-0004.md)|
-| jPOS | (ISO-8583) bridge | Unknown | Not Vuln  | | [source](https://github.com/jpos/jPOS/commit/d615199a1bdd35c35d63c07c10fd0bdbbc96f625)|
+| jPOS | (ISO-8583) bridge | Unknown | Not vuln  | | [source](https://github.com/jpos/jPOS/commit/d615199a1bdd35c35d63c07c10fd0bdbbc96f625)|
 | Juniper Networks | Cross Provisioning Platform | Unspecified | Under investigation | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | JSA Series | Unspecified | Under investigation | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Advanced Threat Prevention (JATP) | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks AppFormix | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Apstra System | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks CTPOS and CTPView | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Connectivity Services Director | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Contrail products: Contrail Analytics, Contrail Cloud, Contrail Networking or Contrail Service Orchestration | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks ICEAAA Manager | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks JATP Cloud | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Juniper Identity Management Services (JIMS) | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Juniper Mist Edge | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Juniper Sky Enterprise | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Junos OS Evolved | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Junos OS | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Mist Access Points | Any version on AP12, AP21, AP32, AP33, AP34, AP41, AP43, AP45, AP61, AP63. | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Network Director | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Policy Enforcer | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks ScreenOS | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks SecIntel | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Security Director Insights | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Security Director | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Session Smart Router (Formerly 128T) | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Space SDK | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks Standalone Log Collector 20.1 (as also used by Space Security Director) | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Juniper Networks products using Wind River Linux in Junos OS and Junos OS Evolved | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Advanced Threat Prevention (JATP) | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks AppFormix | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Apstra System | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks CTPOS and CTPView | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Connectivity Services Director | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Contrail products: Contrail Analytics, Contrail Cloud, Contrail Networking or Contrail Service Orchestration | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks ICEAAA Manager | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks JATP Cloud | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Juniper Identity Management Services (JIMS) | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Juniper Mist Edge | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Juniper Sky Enterprise | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Junos OS Evolved | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Junos OS | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Mist Access Points | Any version on AP12, AP21, AP32, AP33, AP34, AP41, AP43, AP45, AP61, AP63. | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Network Director | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Policy Enforcer | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks ScreenOS | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks SecIntel | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Security Director Insights | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Security Director | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Session Smart Router (Formerly 128T) | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Space SDK | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks Standalone Log Collector 20.1 (as also used by Space Security Director) | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Juniper Networks products using Wind River Linux in Junos OS and Junos OS Evolved | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Junos Space Network Management Platform  | Unspecified | Vulnerable | Only when OpenNMS has been enabled. | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | MIST: Juniper Networks Marvis Virtual Network Assistant (VNA) | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | MIST: Juniper Networks Mist AI | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | MIST: Juniper Networks Paragon Active Assurance | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | MIST: Juniper Networks WAN Assurance | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | MIST: Juniper Networks Wi-Fi Assurance | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | MIST: Juniper Networks Wired Assurance | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | MIST: Juniper Networks Marvis Virtual Network Assistant (VNA) | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | MIST: Juniper Networks Mist AI | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | MIST: Juniper Networks Paragon Active Assurance | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | MIST: Juniper Networks WAN Assurance | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | MIST: Juniper Networks Wi-Fi Assurance | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | MIST: Juniper Networks Wired Assurance | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Northstar Controller | Unspecified | Vulnerable | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Northstar Planner | Unspecified | Under investigation | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Paragon Insights | >= 21 version 21.1 ; >= 22 version 22.2  | Vulnerable | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Paragon Pathfinder | >= 21 version 21.1 ; >= 22 version 22.2 | Vulnerable | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Paragon Planner | >= 21 version 21.1 ; >= 22 version 22.2 | Vulnerable | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Secure Analytics | Unspecified | Under investigation | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | User Engagement Virtual BLE | Unspecified | Not Vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | User Engagement Virtual BLE | Unspecified | Not vuln | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 
 ### K
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| Kaseya | AuthAnvil | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | BMS | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | ID Agent DarkWeb ID and BullPhish ID | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | IT Glue | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | MyGlue | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | Network Glue | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | Passly | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | RocketCyber | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | Spannign Salesforce Backup | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | Spanning O365 Backup | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | Unitrends | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | VSA SaaS and VSA On-Premises | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Kaseya | Vorex | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | AuthAnvil | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | BMS | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | ID Agent DarkWeb ID and BullPhish ID | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | IT Glue | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | MyGlue | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Network Glue | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Passly | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | RocketCyber | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Spannign Salesforce Backup | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Spanning O365 Backup | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Unitrends | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | VSA SaaS and VSA On-Premises | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Vorex | Unknown | Not vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Kaseya | products not listed above | Unknown | Investigation | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Keeper | SSO Connect On-Prem | 16.0.2 | Fix | | [source](vendor-statements/Keeper.png), [source](https://docs.keeper.io/release-notes/on-prem-components/sso-connect/sso-connect-version-16.0.2)|
-| Keycloak | Keycloak | all version | Not Vuln | | [source](https://github.com/keycloak/keycloak/discussions/9078) |
-| Kofax | Capture | All | Not Vuln | | [source](https://knowledge.kofax.com/Capture/Kofax_Capture/Reference/Log4J_Vulnerability_CVE-2021-44228_Does_Not_Affect_Kofax_Capture) |
+| Keycloak | Keycloak | all version | Not vuln | | [source](https://github.com/keycloak/keycloak/discussions/9078) |
+| Kofax | Capture | All | Not vuln | | [source](https://knowledge.kofax.com/Capture/Kofax_Capture/Reference/Log4J_Vulnerability_CVE-2021-44228_Does_Not_Affect_Kofax_Capture) |
 | Kofax | Communication Manager (KCM) |5.3-5.5 | Fix | | [source](https://knowledge.kofax.com/Communications_Manager/Troubleshooting/log4j_vulnerability_in_Kofax_Communications_Manager) |
 | Kofax | Robotic Process Automation (RPA) | 11.1 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
 | Kofax | Robotic Process Automation (RPA) | 11.2 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
@@ -1425,9 +1425,9 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| Lancom Systems | All products  | All versions | Not Vuln| | [source](https://www.lancom-systems.com/service-support/instant-help/general-security-information) |
-| Lansweeper | All products | All versions | Not Vuln| | [source](https://www.lansweeper.com/vulnerability/critical-log4j-vulnerability-affects-millions-of-applications/) |
-| LastPass | Other products | | Not Vuln | | [source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy) |
+| Lancom Systems | All products  | All versions | Not vuln| | [source](https://www.lancom-systems.com/service-support/instant-help/general-security-information) |
+| Lansweeper | All products | All versions | Not vuln| | [source](https://www.lansweeper.com/vulnerability/critical-log4j-vulnerability-affects-millions-of-applications/) |
+| LastPass | Other products | | Not vuln | | [source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy) |
 | LastPass | LastPass MFA |  | Fix | Universal Proxy on Windows with Debug logging enabled are highly recommended to update to the newest version of the Universal Proxy 3.0.2 or 4.1.2 | [source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy) |
 | LeanIX | All products | All versions | Fix | | [source](https://www.leanix.net/en/blog/log4j-vulnerability-log4shell) |
 | Lenovo | Any 5594 UPS unit | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
@@ -1507,10 +1507,10 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Lenovo | ThinkSystem DM Series Storage | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
 | Lenovo | ThinkSystem DS Series Storage | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
 | Lenovo | ThinkSystem Manager (TSM) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lightbend | Akka  | Unknown | Not Vuln| | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
-| Lightbend | Akka Serverless | Unknown | Not Vuln| | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
-| Lightbend | Lagom Framework | Unknown | Not Vuln by default | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
-| Lightbend | Play Framework| Unknown | Not Vuln by default | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
+| Lightbend | Akka  | Unknown | Not vuln| | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
+| Lightbend | Akka Serverless | Unknown | Not vuln| | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
+| Lightbend | Lagom Framework | Unknown | Not vuln by default | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
+| Lightbend | Play Framework| Unknown | Not vuln by default | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 | Liongard | All products  | Unknown | Investigation| | [source](https://insights.liongard.com/faq-apache-log4j-vulnerability) |
 | LiquidFiles | LiquidFiles | All versions | Not vuln | |[source](https://mailchi.mp/liquidfiles/liquidfiles-log4j) |
 | LiveAction | LiveNX | <21.5.1 | Fix | | [source](https://documentation.liveaction.com/LiveNX/LiveNX%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNX%2021.5.1.1.3) |
@@ -1527,27 +1527,28 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| Macrium Software | All | | Not vuln | | [source](https://www.macrium.com/log4j-vulnerabilities-update) |
-| MailStore | MailStore | all | Not Vuln  | | [source](https://www.mailstore.com/en/blog/mailstore-affected-by-log4shell/) |
+| MISP | MISP | All | Not vuln | |[source](https://twitter.com/MISPProject/status/1470051242038673412) |
+| MONARC | MONARC | All | Not vuln | |[source](https://twitter.com/MONARCproject/status/1470349937443491851) |
+| MailStore | MailStore | all | Not vuln  | | [source](https://www.mailstore.com/en/blog/mailstore-affected-by-log4shell/) |
 | Mailcow | Mailcow Solr Docker| < 1.8 | Fix | | [source](https://community.mailcow.email/d/1229-cve-2021-44228-vulnerability-solr) |
 | ManageEngine | ADAudit Plus | Unknown | Investigation | Workaround | [source](https://pitstop.manageengine.com/portal/en/community/topic/apache-log4j-vulnerability-cve-2021-44228-1) |
 | ManageEngine | ADManager Plus | Unknown | Investigation| Mitigation: set `-Dlog4j2.formatMsgNoLookups=true` in `jvm.options`. | [source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-ad-manager-plus) |
-| ManageEngine | Desktop Central | Unknown | Not Vuln | |[source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-security-issue) |
+| ManageEngine | Desktop Central | Unknown | Not vuln | |[source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-security-issue) |
 | ManageEngine | EventLog Analyzer | Unknown | Workaround | |[source](https://pitstop.manageengine.com/portal/en/community/topic/fixing-log4j-cve-2021-44228-vulnerability-in-log360) |
-| Mathworks | MATLAB | All | Not Vuln | |[source](https://www.mathworks.com/content/dam/mathworks/policies/mathworks-response-to-cve-2021-44228-log4j-vulnerability.pdf) |
-| Mattermost   | Mattermost | | Not Vuln | | [source](https://forum.mattermost.org/t/security-update-log4j-security-vulnerability/12695) |
-| McAfee | Data Exchange Layer (DXL) | Unknown | Not Vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
+| Mathworks | MATLAB | All | Not vuln | |[source](https://www.mathworks.com/content/dam/mathworks/policies/mathworks-response-to-cve-2021-44228-log4j-vulnerability.pdf) |
+| Mattermost   | Mattermost | | Not vuln | | [source](https://forum.mattermost.org/t/security-update-log4j-security-vulnerability/12695) |
+| McAfee | Data Exchange Layer (DXL) | Unknown | Not vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
 | McAfee | Enterprise Security Manager (ESM) | 11.x | Workaround || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
-| McAfee | McAfee Active Response (MAR) | Unknown | Not Vuln | Standalone MAR not vulnerable, for MAR included in bundle see TIE | [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
-| McAfee | Network Security Manager (NSM) | Unknown | Not Vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
-| McAfee | Network Security Platform (NSP) | Unknown | Not Vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
+| McAfee | McAfee Active Response (MAR) | Unknown | Not vuln | Standalone MAR not vulnerable, for MAR included in bundle see TIE | [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
+| McAfee | Network Security Manager (NSM) | Unknown | Not vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
+| McAfee | Network Security Platform (NSP) | Unknown | Not vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
 | McAfee | Threat Intelligence Exchange (TIE) | 2.2, 2.3, 3.0 | Workaround || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
-| McAfee | ePolicy Orchestrator Agent Handlers (ePO-AH) | Unknown | Not Vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
+| McAfee | ePolicy Orchestrator Agent Handlers (ePO-AH) | Unknown | Not vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
 | McAfee | ePolicy Orchestrator Application Server (ePO) | 5.10 CU11 | Workaround || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
-| McAfee | ePolicy Orchestrator Application Server (ePO) | <= 5.10 CU10 | Not Vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
-| Meinberg | LANTIME | all | Not Vuln | | [source](https://www.meinbergglobal.com/english/sw/mbgsecurityadvisory.htm#mbgsa_535) |
-| Meinberg | microSync | all | Not Vuln | | [source](https://www.meinbergglobal.com/english/sw/mbgsecurityadvisory.htm#mbgsa_535) |
-| Memurai | All products | | Not Vuln | | [source](https://www.memurai.com/blog/apache-log4j2-cve-2021-44228) |
+| McAfee | ePolicy Orchestrator Application Server (ePO) | <= 5.10 CU10 | Not vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
+| Meinberg | LANTIME | all | Not vuln | | [source](https://www.meinbergglobal.com/english/sw/mbgsecurityadvisory.htm#mbgsa_535) |
+| Meinberg | microSync | all | Not vuln | | [source](https://www.meinbergglobal.com/english/sw/mbgsecurityadvisory.htm#mbgsa_535) |
+| Memurai | All products | | Not vuln | | [source](https://www.memurai.com/blog/apache-log4j2-cve-2021-44228) |
 | messageconcept | PeopleSync |  All | Not vuln |  |[source](https://messageconcept.atlassian.net/wiki/spaces/PSKB/pages/2139095041/Is+PeopleSync+affected+by+Log4Shell) |
 | Metabase  | Metabase                         | <0.41.4 | Fix      | Mitigations available for earlier versions                                                                | [source](https://github.com/metabase/metabase/releases/tag/v0.41.4)                                                                                                                                                                                                        |
 | Micro Focus | ArcSight ESM                   | 7.2, 7.5 | Vulnerable | | [source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228) |
@@ -1558,14 +1559,14 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Micro Focus | ArcSight Transformation Hub    | All Versions | Vulnerable | | [source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228) |
 | Micro Focus | Silk Performer                 | 21.0 | Vulnerable | Workaround | [source](https://portal.microfocus.com/s/article/KM000003066), [workaround](https://microfocus.my.salesforce.com/sfc/p/1t000000vhDP/a/8e000000c7fR/JrOxnycbJxIXDpzlzCCfBOy6pqqRcPD_cu.ySvH5Vc8) |
 | Micro Focus | Silk Test                      | 20.0 up to 21.0.1 (included) | Vulnerable | Workaround | [source](https://portal.microfocus.com/s/article/KM000003066), [workaround](https://microfocus.my.salesforce.com/sfc/p/1t000000vhDP/a/8e000000c7fR/JrOxnycbJxIXDpzlzCCfBOy6pqqRcPD_cu.ySvH5Vc8) |
-| Microsoft | Azure AD                         | Unknown | Not Vuln | ADFS itself is not vulnerable, federation providers may be                                                | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
-| Microsoft | Azure App Service                | Unknown | Not Vuln | This product itself is not vulnerable, Microsoft provides guidance on remediation for hosted applications | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
-| Microsoft | Azure Application Gateway        | Unknown | Not Vuln |                                                                                                           | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
+| Microsoft | Azure AD                         | Unknown | Not vuln | ADFS itself is not vulnerable, federation providers may be                                                | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
+| Microsoft | Azure App Service                | Unknown | Not vuln | This product itself is not vulnerable, Microsoft provides guidance on remediation for hosted applications | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
+| Microsoft | Azure Application Gateway        | Unknown | Not vuln |                                                                                                           | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
 | Microsoft          | Azure Data Lake Store Java | < 2.3.10 | Not vuln | Fix has been made to upgrade log4j-core. But this dependency has scope 'test' meaning it is not part of the final product/artifact. So there's no risk for end users here. |[source](https://github.com/Azure/azure-data-lake-store-java/blob/ed5d6304783286c3cfff0a1dee457a922e23ad48/CHANGES.md#version-2310) |
-| Microsoft | Azure DevOps       |  | Not Vuln |                                                                                                           | [source](https://devblogs.microsoft.com/devops/azure-devops-and-azure-devops-server-and-the-log4j-vulnerability/?WT.mc_id=DOP-MVP-5001511)                                                                                                                                                                  |
+| Microsoft | Azure DevOps       |  | Not vuln |                                                                                                           | [source](https://devblogs.microsoft.com/devops/azure-devops-and-azure-devops-server-and-the-log4j-vulnerability/?WT.mc_id=DOP-MVP-5001511)                                                                                                                                                                  |
 | Microsoft | Azure DevOps Server       | 2019-2020.1 | Vulnerable  | When Azure DevOps Server Search is configured. Uses Elasticsearch OSS 6.2.4 (vulnerable) see Elasticsearch above for mitigation                                                                                                          | [source](https://devblogs.microsoft.com/devops/azure-devops-and-azure-devops-server-and-the-log4j-vulnerability/?WT.mc_id=DOP-MVP-5001511)                                                                                                                                                                  |
-| Microsoft | Azure Front Door                 | Unknown | Not Vuln |                                                                                                           | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
-| Microsoft | Azure WAF                        | Unknown | Not Vuln |                                                                                                           | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
+| Microsoft | Azure Front Door                 | Unknown | Not vuln |                                                                                                           | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
+| Microsoft | Azure WAF                        | Unknown | Not vuln |                                                                                                           | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
 | Microsoft | Cosmos DB Kafka Connector | Fix | 1.2.1 | | [source](https://github.com/microsoft/kafka-connect-cosmosdb/releases/tag/v1.2.1) |
 | Microsoft | Events Hub Extension | Fix | 3.3.1 | | [source](https://mvnrepository.com/artifact/com.microsoft.azure/azure-eventhubs-extensions/3.3.1) |
 | Microsoft | Kafka Connect for Azure Cosmo DB | < 1.2.1 | Fix      |                                                                                                           | [source](https://github.com/microsoft/kafka-connect-cosmosdb/blob/0f5d0c9dbf2812400bb480d1ff0672dfa6bb56f0/CHANGELOG.md)                                                                                                                                                   |
@@ -1582,8 +1583,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Mirantis      | Mirantis OpenStack         |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | Lens                       |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | K0s                        |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
-| MISP | MISP | All | Not vuln | |[source](https://twitter.com/MISPProject/status/1470051242038673412) |
-| Mitel      | MiCollab |  >=7.1 to <=9.4 | Fix | Below v7.0 not vuln |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) |
+| Mitel      | MiCollab |  >=7.1 to <=9.4 | Fix | Below v7.0 Not vuln |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) |
 | Mitel      | MiContact Center  Enterprise |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | MiContact Center Business |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | Mitel CMG Suite |  All | Investigation |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
@@ -1604,7 +1604,6 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Mitel      | MiVoice MX-ONE |  7.4 only | Fix |  |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/security-bulletin_21-0010-003.pdf) |
 | Mitel      | MiVoice Office 400 |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | Open Integration Gateway (OIG) |  All | Investigation |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
-| MONARC | MONARC | All | Not vuln | |[source](https://twitter.com/MONARCproject/status/1470349937443491851) |
 | MongoDB | Atlas Search | Unknown | Fix | Affected and patched. No evidence of exploitation or indicators of compromise prior to the patch were discovered. | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb) |
 | MongoDB | Atlas | Unknown | Not vuln | Including Atlas Database, Data Lake, Charts | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb) |
 | MongoDB | Community Edition | Unknown | Not vuln | Including Community Server, Cloud Manager, Community Kubernetes Operators. | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb) |
@@ -1619,17 +1618,17 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier           | Product                                                            | Version  (See Status) |    Status     | Notes                                          |                                                                                                            Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| N-able             | Backup                                                             | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
-| N-able             | Mail Assure                                                        | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
-| N-able             | MSP Manager                                                        | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
-| N-able             | N-central                                                          | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
-| N-able             | Passportal                                                         | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
+| N-able             | Backup                                                             | Unknown  |   Not vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
+| N-able             | Mail Assure                                                        | Unknown  |   Not vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
+| N-able             | MSP Manager                                                        | Unknown  |   Not vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
+| N-able             | N-central                                                          | Unknown  |   Not vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
+| N-able             | Passportal                                                         | Unknown  |   Not vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
 | N-able             | Risk Intelligence                                                  | Unknown  |  Vulnerable   |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
 | N-able             | RMM                                                                | Unknown  |      Fix      |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
-| N-able             | Take Control                                                       | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
-| Nagios             | Nagios Core                                                       | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/) |
-| Nagios             | Nagios XI                                                       | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/) |
-| Nagios             | Nagios Log Server                                                      | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/) |
+| N-able             | Take Control                                                       | Unknown  |   Not vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
+| Nagios             | Nagios Core                                                       | Unknown  |   Not vuln    |                                                |                                 [source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/) |
+| Nagios             | Nagios XI                                                       | Unknown  |   Not vuln    |                                                |                                 [source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/) |
+| Nagios             | Nagios Log Server                                                      | Unknown  |   Not vuln    |                                                |                                 [source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/) |
 | Nakivo             | Nakivo Backup & Replication                                        | Unknown  | Workaround | manual fix by removing JndiLookup.class located in libs\log4j-core-2.2.jar. [source](https://forum.nakivo.com/index.php?/topic/7574-log4j-cve-2021-44228/#comment-9145) |  [source](vendor-statements/nakivo_email.png) |
 | Nelson             | Nelson                                                             | 0.16.185 |  Vulnerable   | Workaround is available, but not released yet. | [source](https://github.com/getnelson/nelson/blob/f4d3dd1f1d4f8dfef02487f67aefb9c60ab48bf5/project/custom.scala) |
 | Neo4j              | Neo4j                                                              | >=4.2.12, >=4.3.8, >=4.4.1 |   Fix    |                                    | [source](https://community.neo4j.com/t/log4j-cve-mitigation-for-neo4j/48856), [source_fix](https://neo4j.com/security/log4j/?_gl=1*21owwo*_ga*MjE0NzMyNTYxMy4xNjM4MTE2NTM0*_ga_DL38Q8KGQC*MTYzOTY1NTgyMS4yNS4wLjE2Mzk2NTU4MjEuMA..&_ga=2.221851932.50302124.1639655825-2147325613.1638116534) |
@@ -1637,13 +1636,13 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | NetApp             | Cloud Insights Acquisition Unit                                    | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
 | NetApp             | Cloud Manager                                                      | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
 | NetApp             | Cloud Secure                                                       | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | Element Plug-in for vCenter Server                                 | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | Management Services for Element Software and NetApp HCI            | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | NetApp HCI Compute Node                                            | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | NetApp SolidFire, Enterprise SDS & HCI Storage                     | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | NetApp SolidFire & HCI Management Node                             | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | NetApp SolidFire Plug-in for vRealize Orchestrator (SolidFire vRO) | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | NetApp SolidFireStorage Replication Adapter                        | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | Element Plug-in for vCenter Server                                 | Unknown  | Not vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | Management Services for Element Software and NetApp HCI            | Unknown  | Not vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | NetApp HCI Compute Node                                            | Unknown  | Not vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | NetApp SolidFire, Enterprise SDS & HCI Storage                     | Unknown  | Not vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | NetApp SolidFire & HCI Management Node                             | Unknown  | Not vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | NetApp SolidFire Plug-in for vRealize Orchestrator (SolidFire vRO) | Unknown  | Not vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | NetApp SolidFireStorage Replication Adapter                        | Unknown  | Not vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
 | NetApp             | ONTAP Tools for VMware vSphere                                     | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
 | NetApp             | OnCommand Insight                                                  | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
 | NetApp             | SnapCenter Plug-in for VMware vSphere                              | Unknown  | Workaround |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/#:~:text=Workarounds-,snapcenter%20plug-in%20for%20vmware%20vsphere) |
@@ -1663,7 +1662,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | New Relic          | Containerized Private Minion (CPM)                                 |  3.0.55  |      Fix      |                                                |                                                                                                                                                                            [source](https://docs.newrelic.com/docs/security/new-relic-security/security-bulletins/security-bulletin-nr21-04/) |
 | New Relic          | Java Agent                                                         |  6.5.1 & 7.4.1  |      Fix      |                                                |                                                                                                                                                                            [source](https://docs.newrelic.com/docs/security/new-relic-security/security-bulletins/security-bulletin-nr21-03/) |
 | NextCloud | All products | | Not vuln | Invidivual plugins not developed as part of Nextcloud core may be vulnerable. |                                                                                                                                                                                                          [source](https://help.nextcloud.com/t/apache-log4j-does-not-affect-nextcloud/129244) |
-| NextGen Healthcare | Mirth                                                              | Unknown  |   Not Vuln    |                                                |                                                                                                                                                                                             [source](https://github.com/nextgenhealthcare/connect/discussions/4892#discussioncomment-1789526) |
+| NextGen Healthcare | Mirth                                                              | Unknown  |   Not vuln    |                                                |                                                                                                                                                                                             [source](https://github.com/nextgenhealthcare/connect/discussions/4892#discussioncomment-1789526) |
 |Nomachine | All products | All versions | Not vuln | |                                                                                                                                                                                                                        [source](https://forums.nomachine.com/topic/apache-log4j-notification) |
 | NSA | Ghidra| < 10.1| Fix | |                                                                            [source](https://github.com/NationalSecurityAgency/ghidra/blob/2c73c72f0ba2720c6627be4005a721a5ebd64b46/README.md#warning), [fix](https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.1_build) |
 | Nulab | Backlog | N/A (SaaS) | Fix || [source](https://nulab.com/blog/company-news/log4shell/) |
@@ -1679,7 +1678,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Nutanix | Beam | SaaS | Not vuln | WAF updated to block exploit, backend patch pending |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | Calm | On-Prem | Investigation | |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | Calm | SaaS | Not vuln | WAF updated to block exploit, backend patch pending |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
-| Nutanix | Data Lens | SaaS | Not vuln | WAF updated to block exploit, backend not vuln |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
+| Nutanix | Data Lens | SaaS | Not vuln | WAF updated to block exploit, backend Not vuln |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | Era | All supported versions | Not vuln | |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | File Analytics | All supported versions | Investigation | |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | Files | All supported versions | Not vuln | |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
@@ -1704,7 +1703,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Nutanix | X-Ray | All supported versions | Not vuln | |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Fix | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | vGPU software license server | 2021.7 and 2020.5 Update 1 | Workaround | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NXLog | NXLog Manager |  5.x | Not Vuln | |                                                                                                                                                                                                                     [source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228) |
+| NXLog | NXLog Manager |  5.x | Not vuln | |                                                                                                                                                                                                                     [source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228) |
 
 ### O
 
@@ -1713,17 +1712,17 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Obsidian Dynamics | kafdrop | all | Investigation | | [source](https://github.com/obsidiandynamics/kafdrop/issues/315) |
 | OCLC   | all | all | Fix | | [source](https://oc.lc/status) |
 | Ogest   | all | all | Not vuln | | [source](https://www.ogest.fr/20211216-vulnerability-java-log4j) |
-| Okta       | Access Gateway                                     | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
-| Okta       | AD Agent                                           | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
-| Okta       | Advanced Server Access                             | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
-| Okta       | Browser Plugin                                     | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
-| Okta       | IWA Web Agent                                      | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
-| Okta       | LDAP Agent                                         | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
-| Okta       | Mobile                                             | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
+| Okta       | Access Gateway                                     | Unknown                          | Not vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
+| Okta       | AD Agent                                           | Unknown                          | Not vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
+| Okta       | Advanced Server Access                             | Unknown                          | Not vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
+| Okta       | Browser Plugin                                     | Unknown                          | Not vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
+| Okta       | IWA Web Agent                                      | Unknown                          | Not vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
+| Okta       | LDAP Agent                                         | Unknown                          | Not vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
+| Okta       | Mobile                                             | Unknown                          | Not vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
 | Okta       | On-Prem MFA Agent                                  | <1.4.6                           | Fix        |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell), [fix](https://trust.okta.com/security-advisories/okta-on-prem-mfa-agent-cve-2021-44228)                |
 | Okta       | Radius Server Agent                                | 2.17.0                           | Fix        |                                                    | [source/fix](https://trust.okta.com/security-advisories/okta-radius-server-agent-cve-2021-44228)                |
-| Okta       | Verify                                             | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
-| Okta       | Workflow                                           | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
+| Okta       | Verify                                             | Unknown                          | Not vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
+| Okta       | Workflow                                           | Unknown                          | Not vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
 | OneSpan    | Authentication Appliance                          | Unknown | Vulnerable | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
 | OneSpan    | Authentication Server                              | Unknown | Vulnerable | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
 | OneSpan    | Digipass Gateway                                   | Unknown | Vulnerable | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
@@ -1737,29 +1736,29 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | OpenNMS    | PoweredBy OpenNMS                                  | Unknown                          | Workaround |                                                    | [source](https://www.opennms.com/en/blog/2021-12-10-opennms-products-affected-by-apache-log4j-vulnerability-cve-2021-44228/)                                      |
 | OpenSearch | OpenSearch                                         | < 1.2.1                          | Fix        |                                                    | [source](https://opensearch.org/blog/releases/2021/12/update-to-1-2-1/)                                                                                           |
 | OpenVPN | All products |  | Not vuln | | [source](https://forums.openvpn.net/viewtopic.php?f=4&p=103724#p103750) |
-| Oracle     | Database                                           | Unknown                          | Not Vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
+| Oracle     | Database                                           | Unknown                          | Not vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
 | Oracle     | Fusion Middleware                                  | 12.2.1.3.0 to 12.2.1.4.0                          | Fix        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1), [MOS note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)           |
-| Oracle     | NoSQL Database                          | Unknown                          | Not Vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
-| Oracle     | Forms                          | Unknown                          | Not Vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
-| Oracle     | Golden Gate                          | Unknown                          | Not Vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
-| Oracle     | Oracle Access Manager                          | Unknown                          | Not Vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
+| Oracle     | NoSQL Database                          | Unknown                          | Not vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
+| Oracle     | Forms                          | Unknown                          | Not vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
+| Oracle     | Golden Gate                          | Unknown                          | Not vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
+| Oracle     | Oracle Access Manager                          | Unknown                          | Not vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
 | Oracle     | Oracle Data Integrator (ODI)                          | >= 12.2.1.3.210119, Marketplace - >= 2.1.0                          | Workaround        |[Patch Available, Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1), [Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)           |
 | Oracle     | Oracle eBusiness Suite                          | Unknown                          | Workaround        |[MOS note 2827804.1](https://support.oracle.com/rs?type=doc&id=2827804.1)                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
-| Oracle     | Oracle Enterprise Manager                          | Unknown                          | Not Vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
+| Oracle     | Oracle Enterprise Manager                          | Unknown                          | Not vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
 | Oracle     | Oracle Enterprise Repository                          | Unknown                          | Workaround        |[Mitigation, Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1), [Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)           |
-| Oracle     | Oracle HTTP Server                          | Unknown                          | Not Vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
-| Oracle     | Oracle Internet Directory                          | Unknown                          | Not Vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
+| Oracle     | Oracle HTTP Server                          | Unknown                          | Not vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
+| Oracle     | Oracle Internet Directory                          | Unknown                          | Not vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
 | Oracle     | Oracle JDeveloper                          | Unknown                          | Workaround        |[Mitigation Available, Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1), [Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)           |
 | Oracle     | Oracle Policy Automation (OPA)                          | Unknown                          | Fix        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1), MOS note 33660673           |
-| Oracle     | Oracle SOA Suite                          | Unknown                          | Not Vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
+| Oracle     | Oracle SOA Suite                          | Unknown                          | Not vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
 | Oracle     | Oracle SQL Developer                          | 21.4                          | Fix        |                                                    | [source](https://www.oracle.com/tools/sqldev/sqldev-relnotes-21.4.html)           |
-| Oracle     | Oracle VM VirtualBox                          | Unknown                          | Not Vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
+| Oracle     | Oracle VM VirtualBox                          | Unknown                          | Not vuln        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
 | Oracle     | Oracle WebCenter Portal                          | 12.2.1.3 & 12.2.1.4 | Workaround        |  [MOS note 2827977.1](https://support.oracle.com/rs?type=doc&id=2827977.1) using Elasticsearch which uses Log4j 2.X jars  | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1)           |
 | Oracle     | Oracle WebCenter Sites                          | Unknown                          | Workaround        |[Mitigation Available, Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1), [Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)           |
 | Oracle     | Oracle WebLogic Server                          | 12.2.1.3.0 to 14.1.1.0.0                          | Fix        |                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1), [MOS Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)           |
-| OTRS      | All products                                                |                        | Not Vuln      |                                                    | [source](https://portal.otrs.com/external) |
+| OTRS      | All products                                                |                        | Not vuln      |                                                    | [source](https://portal.otrs.com/external) |
 | OWASP      | ZAP                                                | < 2.11.1                         | Fix        |                                                    | [source](https://www.zaproxy.org/blog/2021-12-10-zap-and-log4shell/) |
-| Owncloud       | All Products                                             | Unknown                          | Not Vuln   |                                                    | [source](https://central.owncloud.org/t/owncloud-not-directly-affected-by-log4j-vulnerability/35493)                                                                                                         |
+| Owncloud       | All Products                                             | Unknown                          | Not vuln   |                                                    | [source](https://central.owncloud.org/t/owncloud-not-directly-affected-by-log4j-vulnerability/35493)                                                                                                         |
 | OVHCloud       | Logs Data Platform                                             |                           | Fix   |                                                    | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)                                                                                                         |
 | OVHCloud       | Hosted Private Cloud powered by VMware                                             |  |           Vuln                | Deploying the workarounds provided by VMWare   | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/) |
 | OVHCloud       | ML serving                                             |                           | Fix   |                                                    | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)                                                                                                         |
@@ -1771,17 +1770,17 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Paessler | PRTG | | Not vuln | | [source](https://kb.paessler.com/en/topic/90213-is-prtg-affected-by-cve-2021-44228) |
 | PagerDuty | Rundeck | 3.3+ | Fix | | [source](https://docs.rundeck.com/docs/history/CVEs/#log4shell-cves), [fix](https://github.com/rundeck/rundeck/pull/7427) |
-| Palo Alto | Bridgecrew  | | Not Vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
-| Palo Alto | CloudGenix  | | Not Vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
-| Palo Alto | Cortex XDR Agent  | | Not Vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
-| Palo Alto | Cortex XSOAR  | | Not Vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
+| Palo Alto | Bridgecrew  | | Not vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
+| Palo Alto | CloudGenix  | | Not vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
+| Palo Alto | Cortex XDR Agent  | | Not vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
+| Palo Alto | Cortex XSOAR  | | Not vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
 | Palo Alto | Exact Data Matching CLI  | < 1.2 | Vulnerable | >= 1.2 Not vuln | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
-| Palo Alto | GlobalProtect App  | | Not Vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
+| Palo Alto | GlobalProtect App  | | Not vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
 | Palo Alto | PAN-OS for Panorama | 9.0.x, 9.1.x, 10.0.x | Vulnerable | 8.1.x, 10.1.x Not vuln | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
-| Palo Alto | PAN-OS for Firewall and Wildfire | | Not Vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
-| Palo Alto | Prisma Cloud Compute | | Not Vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
-| Palo Alto | Prisma Cloud  | | Not Vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
-| Palo Alto | WildFire Appliance | | Not Vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
+| Palo Alto | PAN-OS for Firewall and Wildfire | | Not vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
+| Palo Alto | Prisma Cloud Compute | | Not vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
+| Palo Alto | Prisma Cloud  | | Not vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
+| Palo Alto | WildFire Appliance | | Not vuln | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
 | PaperCut  | PaperCut Hive | | Not vuln | |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228) |
 | PaperCut  | PaperCut MF | >= 21.0 | Workaround | |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228) |
 | PaperCut  | PaperCut MobilityPrint | | Not vuln | |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228) |
@@ -1791,7 +1790,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | PaperCut  | PaperCut Pocket | | Not vuln | |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228) |
 | PaperCut  | PaperCut Print Logger | | Not vuln | |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228) |
 | PaperCut  | PaperCut Views | | Not vuln | |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228) |
-| Parallels | Remote Application Server  | All versions | Not Vuln | | [source](https://kb.parallels.com/en/128696) |
+| Parallels | Remote Application Server  | All versions | Not vuln | | [source](https://kb.parallels.com/en/128696) |
 | PDQ | PDQ Deploy | All versions | Investigation | | [source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&utm_medium=social&utm_source=twitter&hss_channel=tw-90432152) |
 | PDQ | PDQ Inventory | All versions | Investigation | | [source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&utm_medium=social&utm_source=twitter&hss_channel=tw-90432152) |
 | Pega | Pega Platform | On Prem | Fix | | [source](https://docs.pega.com/security-advisory/security-advisory-apache-log4j-zero-day-vulnerability) |
@@ -1901,22 +1900,22 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | PTV Group                                       | PTV xServer 1.34 (on prem)                      | Unknown | Vulnerable    |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Group                                       | PTV xServer 2.x (on prem)                       | Unknown | Vulnerable    |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Group                                       | PTV xServer internet 1 / PTV xServer internet 2 | Unknown | Fix           |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| Pulse Secure | Ivanti Connect Secure (ICS) | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Ivanti Neurons for secure Access | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Ivanti Neurons for ZTA | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Pulse Connect Secure | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Pulse Desktop Client | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Pulse Mobile Client | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Pulse One | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Pulse Policy Secure | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Pulse Secure Services Director | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Pulse Secure Virtual Traffic Manager | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Pulse Secure Web Application Firewall | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
-| Pulse Secure | Pulse ZTA | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Ivanti Connect Secure (ICS) | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Ivanti Neurons for secure Access | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Ivanti Neurons for ZTA | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Pulse Connect Secure | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Pulse Desktop Client | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Pulse Mobile Client | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Pulse One | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Pulse Policy Secure | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Pulse Secure Services Director | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Pulse Secure Virtual Traffic Manager | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Pulse Secure Web Application Firewall | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| Pulse Secure | Pulse ZTA | | Not vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
 | Puppet | Continuous Delivery for Puppet Enterprise | 3.x, < 4.10.2| Fix | Update available for version 4.x, mitigations for 3.x which is EOL| [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/), [workaround](https://puppet.com/docs/continuous-delivery/4.x/cd_release_notes.html#cd_release_notes-version-4-10-3),[mitigations](https://support.puppet.com/hc/en-us/articles/360046708133-Puppet-Response-to-CVE-2021-44228-FAQ/) |
-| Puppet | Puppet agents | | Not Vuln | | [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/) |
-| Puppet | Puppet Enterprise| | Not Vuln | | [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/) |
-| PuTTY | PuTTY | | Not Vuln | | [source](https://www.chiark.greenend.org.uk/~sgtatham/putty/) |
+| Puppet | Puppet agents | | Not vuln | | [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/) |
+| Puppet | Puppet Enterprise| | Not vuln | | [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/) |
+| PuTTY | PuTTY | | Not vuln | | [source](https://www.chiark.greenend.org.uk/~sgtatham/putty/) |
 | Pyramid Analytics                               | Pyramid Analytics                               | All     | Not vuln      |       | [source](https://community.pyramidanalytics.com/t/83hjjt4/log4j-security-vulnerability-pyramid) |
 
 ### Q
@@ -1925,90 +1924,90 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Qconferencing | FaceTalk | | Fix | | [source](https://qconferencing.com/status-vulnerability-log4j-en-qconferencing/) |
 | QlikTech International | Compose | | Investigation | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
-| QlikTech International | Nprinting | | Not Vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
+| QlikTech International | Nprinting | | Not vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
 | QlikTech International | QEM products | | Investigation | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
 | QlikTech International | Qlik Replicate | | Investigation | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
-| QlikTech International | Qlik Sense Enterprise | | Not Vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
-| QlikTech International | QlikView | | Not Vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
+| QlikTech International | Qlik Sense Enterprise | | Not vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
+| QlikTech International | QlikView | | Not vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
 | QNAP | General information QNAP | | Investigation | Applications maintained by a third-party are under investigation. | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
-| QNAP | Qsirch | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
-| QNAP | QES Operating System | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
-| QNAP | QTS operating system | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
-| QNAP | QuTS hero operating system | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
+| QNAP | Qsirch | | Not vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
+| QNAP | QES Operating System | | Not vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
+| QNAP | QTS operating system | | Not vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
+| QNAP | QuTS hero operating system | | Not vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
 | QOS.ch          | SLF4J Simple Logging Facade for Java | |  | SLF4J API doesn't protect against the vulnerability when using a vulnerable version of log4j | [source](http://slf4j.org/log4shell.html) |
 | Quadira | All |  | Not vuln |  | [source](vendor-statements/Quadira.png) |
-| QUEST | Quest KACE SMA | | Not Vuln | | [source](https://support.quest.com/kace-systems-management-appliance/kb/335869/are-the-kace-sma-and-kace-sda-appliances-affected-by-cve-2021-44228) |
-| QUEST | Foglight | 5.9 | Not Vuln | | [source](https://support.quest.com/fr-fr/foglight/kb/335908/are-currently-supported-versions-of-foglight-affected-by-the-latest-log4j-2-vulnerability-apache-log4j-2-cve-2021-44228?kblang=en-US) |
+| QUEST | Quest KACE SMA | | Not vuln | | [source](https://support.quest.com/kace-systems-management-appliance/kb/335869/are-the-kace-sma-and-kace-sda-appliances-affected-by-cve-2021-44228) |
+| QUEST | Foglight | 5.9 | Not vuln | | [source](https://support.quest.com/fr-fr/foglight/kb/335908/are-currently-supported-versions-of-foglight-affected-by-the-latest-log4j-2-vulnerability-apache-log4j-2-cve-2021-44228?kblang=en-US) |
 | QUEST | Foglight | 6.0 | Workaround | | [source](https://support.quest.com/fr-fr/foglight/kb/335908/are-currently-supported-versions-of-foglight-affected-by-the-latest-log4j-2-vulnerability-apache-log4j-2-cve-2021-44228?kblang=en-US) |
 
 ### R
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| Red Hat         | A-MQ Clients 2 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat build of Quarkus |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | A-MQ Clients 2 |  | Not vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat build of Quarkus |  | Not vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat CodeReady Studio 12 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Data Grid 8 |  | Fixed | [RHSA-2021:5132](https://access.redhat.com/errata/RHSA-2021:5132)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat Data Grid 8 |  | Fix | [RHSA-2021:5132](https://access.redhat.com/errata/RHSA-2021:5132)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Descision Manager 7 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Integration Camel K |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Integration Camel Quarkus |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss A-MQ Streaming |  | Fixed | [RHSA-2021:5133](https://access.redhat.com/errata/RHSA-2021:5133)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss Enterprise Application Platform 6 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss Enterprise Application Platform Expansion Pack |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss Fuse 7 |  | Fixed | [RHSA-2021:5134](https://access.redhat.com/errata/RHSA-2021:5134) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss A-MQ Streaming |  | Fix | [RHSA-2021:5133](https://access.redhat.com/errata/RHSA-2021:5133)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss Enterprise Application Platform 6 |  | Not vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss Enterprise Application Platform Expansion Pack |  | Not vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss Fuse 7 |  | Fix | [RHSA-2021:5134](https://access.redhat.com/errata/RHSA-2021:5134) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenShift Application Runtimes |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenShift Container Platform 3.11 openshift3/ose-logging-elasticsearch5 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-logging-elasticsearch6 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-metering-hive |  | Fixed | [RHSA-2021:5108](https://access.redhat.com/errata/RHSA-2021:5108) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-metering-hive |  | Fix | [RHSA-2021:5108](https://access.redhat.com/errata/RHSA-2021:5108) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-metering-presto |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenShift Logging logging-elasticsearch6-container |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenStack Platform 13 (Queens) opendaylight |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Process Automation 7 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Single Sign-On 7 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Virtualization 4 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/CVE-2021-4104#:~:text=affected%20packages%20and%20issued%20red%20hat%20security%20errata) |
-| Redgate | Flyway | all | Not Vuln | Only vulnerable when using non-default config. | [source](https://flywaydb.org/blog/flyway-log4j-vulnerability) |
+| Red Hat         | Red Hat Single Sign-On 7 |  | Not vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat Virtualization 4 |  | Not vuln | | [source](https://access.redhat.com/security/cve/CVE-2021-4104#:~:text=affected%20packages%20and%20issued%20red%20hat%20security%20errata) |
+| Redgate | Flyway | all | Not vuln | Only vulnerable when using non-default config. | [source](https://flywaydb.org/blog/flyway-log4j-vulnerability) |
 | Redis | Jedis | 3.7.1, 4.0.0-rc2 | Fix | Jedis uses the affected library in test suites only. | [source](https://redis.com/security/notice-apache-log4j2-cve-2021-44228/) |
-| Redis | Redis Enterprise & Open Source | all | Not Vuln | Redis Enterprise and Open Source Redis (self-managed software product) does not use Java and is therefore not impacted by this vulnerability | [source](https://redis.com/security/notice-apache-log4j2-cve-2021-44228/) |
-| ResMed | AirView | | Not Vuln | | [source](https://www.resmed.com/en-us/security/) |
-| ResMed | myAir | | Not Vuln | | [source](https://www.resmed.com/en-us/security/) |
-| Ricoh | Commercial & Industrial Printing - Garment Printers | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Redis | Redis Enterprise & Open Source | all | Not vuln | Redis Enterprise and Open Source Redis (self-managed software product) does not use Java and is therefore not impacted by this vulnerability | [source](https://redis.com/security/notice-apache-log4j2-cve-2021-44228/) |
+| ResMed | AirView | | Not vuln | | [source](https://www.resmed.com/en-us/security/) |
+| ResMed | myAir | | Not vuln | | [source](https://www.resmed.com/en-us/security/) |
+| Ricoh | Commercial & Industrial Printing - Garment Printers | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
 | Ricoh | Commercial & Industrial Printing - Production Printers | | Investigation | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Digital Duplicators | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - FAX | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Interactive Whiteboards | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Multifunction Printers/Copiers - Black & White MFP | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Multifunction Printers/Copiers - Color MFP | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Multifunction Printers/Copiers - Wide Format MFP | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Printers - Black & White Laser Printers | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Printers - Color Laser Printers | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Printers - Gel Jet Printers | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Printers - Handy Printers | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Printers - Printer based MFP | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Projectors | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Office Products - Video Conferencing | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Card Authentication Package Series | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Certificate Enrolment Service | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Device Manager NX Accounting | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Device Manager NX Enterprise | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Device Manager NX Lite | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Device Manager NX Pro | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Docuware | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Enhanced Locked Print Series | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - GlobalScan NX | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Intelligent Barcode Solution | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - myPrint | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Printer Driver Packager NX | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - @Remote Connector NX | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Ricoh Print Management Cloud | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Ricoh Smart Integration (RSI) applications | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Ricoh Smart Integration (RSI) Platform and its applications | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Ricoh Streamline NX V2 | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Ricoh Streamline NX V3 | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Scan Workflow Navigator | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Ricoh | Software & Solutions - Streamline NX Share | | Not Vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
-| Riverbed        | AppResponse11 | | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Ricoh | Office Products - Digital Duplicators | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - FAX | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Interactive Whiteboards | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Multifunction Printers/Copiers - Black & White MFP | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Multifunction Printers/Copiers - Color MFP | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Multifunction Printers/Copiers - Wide Format MFP | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Printers - Black & White Laser Printers | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Printers - Color Laser Printers | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Printers - Gel Jet Printers | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Printers - Handy Printers | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Printers - Printer based MFP | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Projectors | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Office Products - Video Conferencing | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Card Authentication Package Series | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Certificate Enrolment Service | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Device Manager NX Accounting | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Device Manager NX Enterprise | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Device Manager NX Lite | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Device Manager NX Pro | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Docuware | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Enhanced Locked Print Series | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - GlobalScan NX | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Intelligent Barcode Solution | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - myPrint | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Printer Driver Packager NX | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - @Remote Connector NX | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Ricoh Print Management Cloud | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Ricoh Smart Integration (RSI) applications | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Ricoh Smart Integration (RSI) Platform and its applications | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Ricoh Streamline NX V2 | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Ricoh Streamline NX V3 | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Scan Workflow Navigator | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Ricoh | Software & Solutions - Streamline NX Share | | Not vuln | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
+| Riverbed        | AppResponse11 | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Aternity | | Investigation | See source for latest updates | [source](https://aternity.force.com/customersuccess/s/article/Apache-Log4j-Zero-Day-Exploit) |
-| Riverbed        | Client Accelerator Controllers and Client Accelerator (aka SteelCentral Controller for SteelHead Mobile and SteelHead Mobile) | | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Client Accelerator Controllers and Client Accelerator (aka SteelCentral Controller for SteelHead Mobile and SteelHead Mobile) | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Flow Gateway | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | FlowTraq | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Modeler | | Investigation | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
@@ -2021,25 +2020,25 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Riverbed        | NetIM Test Engine | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | NetPlanner | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | NetProfiler | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
-| Riverbed        | Packet Analyzer | | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
-| Riverbed        | Packet Trace Warehouse | | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Packet Analyzer | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Packet Trace Warehouse | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Portal 1.x | | Vulnerable | Includes Log4j 2.2 | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Portal 3.x | | Vulnerable | Includes Log4j 2.13 | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
-| Riverbed        | SaaS Accelerator | | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | SaaS Accelerator | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Scon CX | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Scon EX Analytics | | Vulnerable | Patches planned | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Scon EX Director | | Vulnerable | Patches planned | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Scon EX FlexVNF | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
-| Riverbed        | SteelCentral Controller for SteelHead | | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | SteelCentral Controller for SteelHead | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | SteelFusionCore (appliance, virtual) | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | SteelFusion Edge | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
-| Riverbed        | SteelHead CX (appliance, virtual, cloud) | | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
-| Riverbed        | SteelHead Interceptor | | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | SteelHead CX (appliance, virtual, cloud) | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | SteelHead Interceptor | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Transaction Analyzer Agents | | Not vuln | Log4j not in use | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Transaction Analyzer | | Investigation | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | UCExpert | | Vulnerable | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
-| Riverbed        | WinSec Controller for SteelHead (WSC) | | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
-| RocketChat |All|All|Not Vuln||[source](https://rocket.chat/blog/log4j-software-vulnerability)|
+| Riverbed        | WinSec Controller for SteelHead (WSC) | | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| RocketChat |All|All|Not vuln||[source](https://rocket.chat/blog/log4j-software-vulnerability)|
 | Rockwell Automation | Warehouse Management | 4.01.00, 4.02.00, 4.02.01, 4.02.02 | Vulnerable | Patch under development | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
 | Rockwell Automation | MES EIG | 3.03.00 | Vulnerable | Product discontinued. Customers should upgrade to EIG Hub if possible or work with their local representatives about alternative solutions. | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
 | Rockwell Automation | Industrial Data Center | Gen 1, Gen 2, Gen 3, Gen 3.5 | Workaround | Follow the mitigation instructions outlined by VMware in VMSA-2021-0028 | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
@@ -2049,12 +2048,12 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | RSA             | NetWitness Orchestrator | >= 6.0 | Workaround | Mitigation for the ThreatConnect Application server is available, no impact described | [source](https://community.rsa.com/t5/netwitness-platform-product/netwitness-apache-vulnerability-log4j2-cve-2021-44228-nbsp/ta-p/660540) |
 | RSA             | NetWitness Platform | 11.4 | Workaround | It is theoretically possible to exploit the vulnerability to gain shell access to the NetWitness Platform | [source](https://community.rsa.com/t5/netwitness-platform-product/netwitness-apache-vulnerability-log4j2-cve-2021-44228-nbsp/ta-p/660540) |
 | RSA             | NetWitness Platform | >= 11.5 | Workaround | It is possible to leak system configuration data | [source](https://community.rsa.com/t5/netwitness-platform-product/netwitness-apache-vulnerability-log4j2-cve-2021-44228-nbsp/ta-p/660540) |
-| RSA             | SecurID Authentication Manager |  | Not Vuln | Version 8.6 Patch 1 contains a version of log4j that is vulnerable, but this vulnerability is not exploitable. | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
-| RSA             | SecurID Authentication Manager Prime |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
-| RSA             | SecurID Authentication Manager WebTier |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
-| RSA             | SecurID Governance and Lifecycle Cloud (SecurID G&L Cloud) |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
-| RSA             | SecurID Governance and Lifecycle (SecurID G&L) |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
-| RSA             | SecurID Identity Router (On-Prem component of Cloud Authentication Service) |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Authentication Manager |  | Not vuln | Version 8.6 Patch 1 contains a version of log4j that is vulnerable, but this vulnerability is not exploitable. | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Authentication Manager Prime |  | Not vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Authentication Manager WebTier |  | Not vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Governance and Lifecycle Cloud (SecurID G&L Cloud) |  | Not vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Governance and Lifecycle (SecurID G&L) |  | Not vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Identity Router (On-Prem component of Cloud Authentication Service) |  | Not vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
 | Ruckus          | FlexMaster |  | Vuln | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
 | Ruckus          | SmartZone 100 (SZ-100) | 5.1 to 6.0 | Vuln | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
 | Ruckus          | SmartZone 144 (SZ-144) | 5.1 to 6.0 | Vuln | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
@@ -2082,22 +2081,22 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Sage      | CRM    | 2020 R2, 2021 R1, and 2021 R2 | Workaround | Sage has 3 patches in test | [source](https://support.na.sage.com/selfservice/viewdocument.do?noCount=true&externalId=113739&sliceId=1&noCount=true&isLoadPublishedVer=&docType=kc&docTypeID=DT_Article&stateId=24595&cmd=displayKC&dialogID=1363294&ViewedDocsListHelper=com.kanisa.apps.common.BaseViewedDocsListHelperImpl&openedFromSearchResults=true) |
 | SailPoint       | IdentityIQ      | 8.0 or later | Workaround      |                 | [source](https://community.sailpoint.com/t5/IdentityIQ-Blog/IdentityIQ-log4j-Remote-Code-Execution-Vulnerability/m-p/206681#M342) |
 | Salesforce      | All products    | | Investigation | | [source](https://status.salesforce.com/generalmessages/826) |
-| SAP             | S/4 HANA On-Premise on ABAP | | Not Vuln | | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | S/4 HANA Cloud Customer systems | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | S/4 HANA Digital Payments Add-On | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | BusinessObjects Business Intelligence | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | BusinessObjects Explorer | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | BusinessObjects Data Services | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | BusinessObjects Financial Information Management | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | BusinessObjects Knowledge Accelerator | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | HANA Database | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | HANA Smart Data Integration | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | HANA Streaming Analytics | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | HANA Spatial Service | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | HANA Streaming Analytics | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | Integrated Business Planning for Supply Chain – Customer systems | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | NetWeaver Application Server for ABAP | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
-| SAP             | SuccessFactors Litmos | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | S/4 HANA On-Premise on ABAP | | Not vuln | | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | S/4 HANA Cloud Customer systems | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | S/4 HANA Digital Payments Add-On | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | BusinessObjects Business Intelligence | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | BusinessObjects Explorer | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | BusinessObjects Data Services | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | BusinessObjects Financial Information Management | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | BusinessObjects Knowledge Accelerator | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | HANA Database | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | HANA Smart Data Integration | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | HANA Streaming Analytics | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | HANA Spatial Service | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | HANA Streaming Analytics | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | Integrated Business Planning for Supply Chain – Customer systems | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | NetWeaver Application Server for ABAP | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | SuccessFactors Litmos | | Not vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
 | SAP             | Customer Checkout PoS / manager | 2.0 FP09, 2.0 FP10, 2.0 FP11 PL06 (or lower) and 2.0 FP12 PL04 (or lower) | Fix | SAP note 3130499 | [source](https://launchpad.support.sap.com/#/notes/0003130499) |
 | SAP             | XS Advanced Runtime | 1.0.140 or lower | Fix | SAP note 3130698 | [source](https://launchpad.support.sap.com/#/notes/3130698) |
 | SAS Institute   | JMP | | Not vuln | | [source](https://support.sas.com/content/support/en/security-bulletins/remote-code-execution-vulnerability-cve-2021-44228.html) |
@@ -2112,101 +2111,72 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Seafile  | Seafile Server | | Fix | | [source](https://forum.seafile.com/t/security-advisory-seafile-servers-vulnerability-to-log4shell-log4j-vulnerability-cve-2021-44228/15590) |
 | Seagull Scientific | BarTender | All | Not vuln | | [source](https://support.seagullscientific.com/hc/en-us/articles/4415794235543-Apache-Log4Shell-Vulnerability) |
 | Security Onion Solutions | Security Onion | 2.3.90 20211210 | Fix | | [source](https://blog.securityonion.net/2021/12/security-onion-2390-20211210-hotfix-now.html) |
-| Sentry.io | Self Hosted and SaaS | All Versions | Not Vuln | Not affected as it is written in Python and Rust. Makes use of unaffected versions of log4j 1.x in Kafka and Zookeeper subsystems | [source](https://blog.sentry.io/2021/12/15/sentrys-response-to-log4j-vulnerability-cve-2021-44228) |
-| Scootersoftware | Beyond Compare | All | Not Vuln | | [source](https://www.scootersoftware.com/index.php) |
-| Shibboleth      | Shibboleth IdP/SP | | Not Vuln |  | [source](https://shibboleth.net/pipermail/announce/2021-December/000253.html) |
-| Siemens     | Advantage Navigator Cloud Service | 2021-12-13 | Fix |Vulnerability fixed on central cloud service starting 2021-12-13; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Advantage Navigator Software Proxy | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Sentry.io | Self Hosted and SaaS | All Versions | Not vuln | Not affected as it is written in Python and Rust. Makes use of unaffected versions of log4j 1.x in Kafka and Zookeeper subsystems | [source](https://blog.sentry.io/2021/12/15/sentrys-response-to-log4j-vulnerability-cve-2021-44228) |
+| Scootersoftware | Beyond Compare | All | Marloes | | [source](https://www.scootersoftware.com/index.php) |
+| Shibboleth      | Shibboleth IdP/SP | | Not vuln |  | [source](https://shibboleth.net/pipermail/announce/2021-December/000253.html) |
+| Siemens     | Advantage Navigator Cloud Service | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Advantage Navigator Software Proxy | all | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Capital (and its derivatives) | >= 2019.1 SP1912 | Workaround | Only vulnerable if Teamcenter integration feature is used | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Cerberus DMS | V5.0, V5.1 with Advanced Reporting EM installed | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Comfy | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Comos Desktop App | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Desigo CC Advanced Reporting | V4.0, V4.1, V4.2, V5.0, V5.1 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Desigo CC Info Center | V5.0, V5.1 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | E-Car OC Cloud Application | | Fix | Vulnerability fixed on central cloud service starting 2021-12-13; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Energy Engate | V3.1 | Fix | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | EnergyIP | V8.5, V8.6, V8.7, V9.0 | Fix | EnergyIP V8.5 and V8.6 applications are not directly affected, but CAS is.| [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | EnergyIP Prepay | V3.7, V3.8 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | E-Car OC Cloud Application | | Fix | Vulnerability fixed on central cloud service starting2021-12-13; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | EnergyIP | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | EnergyIP Prepay | 3.7, 3.8 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Enlighted | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Geolus | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | GMA-Manager | V8.6.2-472 | Fix | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | HCRA | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Geolus | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | GMA-Manager | > V8.6.2j-398 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | HCRA | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | HES UDIS | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Industrial Edge Management App (IEM-App) | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Industrial Edge Manangement Hub | all | Fix | Vulnerability fixed on central cloud service starting 2021-12-13; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Industrial Edge Management OS (IEM-OS) | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | LOGO! Soft Comfort | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Industrial Edge Manangement Hub | all | Fix | Vulnerability fixed on central cloud service starting 2021-12-13; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | LOGO! Soft Comfort | all | Workaround | Only LOGO! Web Projects deployed to AWS are potentially affected | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Mendix Applications | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Mindsphere Cloud Application | 2021-12-11 | Fix | Vulnerability fixed on central cloud service starting 2021-12-11; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Mindsphere Cloud Foundry | | Not Vuln | Although Cloud Foundry environment itself is not vulnerable, nevertheless it's recommended to upgrade log4j-core to the latest available version if log4j-core is part of your project | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | NX | all | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Opcenter EX CP Process Automation Control | >= V17.2.3 and < V18.1 | Workaround | Update to V18.1 or later version to fix CVE-2021-44228 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Opcenter Intelligence | >= 3.2 | Workaround | Only OEM version that ships Tableau is affected | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Operation Scheduler |  >= V1.1.3 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | RUGGEDCOM ELAN | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | RUGGEDCOM MAESTRO | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SENTRON powermanager V4 | V4.1, V4.2 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Mindsphere Cloud Application | < 2021-12-11 | Fix | Vulnerability fixed on central cloud service starting2021-12-11; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Opscenter Intelligence | >= 3.2 | Workaround | Only OEM version that ships Tableau is affected | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Operation Scheduler |  >= V1.1.3 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | RUGGEDCOM ELAN | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | RUGGEDCOM MAESTRO | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | SIGUARD DSA | V4.2, V4.3, V4.4 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SIMATIC WinCC V7.4 | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Simcenter 3D | <= V2022.1 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SINAMICS TEC - SDK | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SINUMERIK Analyze MyWorkpiece / Capture | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SINUMERIK Optimize MyMachine | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SIMATIC WinCC V7.4 | < V7.4 SP1 | Fix | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SINAMICS TEC - SDK | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SINUMERIK Analyze MyWorkpiece / Capture | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SINUMERIK Optimize MyMachine | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | SiPass Integrated | V2.80, V2.85 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Siveillance Command | >= 4.16.2.1 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Siveillance Command |  >= 4.16.2.1 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Siveillance Control Pro | all | Fix | Hotfix available for versions >= V2.1 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Siveillance Control Pro | >= V2.1 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Siveillance Identity | V1.5, V1.6 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Siveillance Vantage | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Siveillance Viewpoint | all | Vulnerable | Only the legacy product Siveillance Viewpoint is affected. The successor product Siveillance Control is not affected | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SIZER Design Tool for SINAMICS | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge CAM Pro | all | Vulnerable | All versions delivered with Solid Edge SE 2020 or later version | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge Technical Publication | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge Harness Design | >= 2020 SP2002 | Workaround | Only affected if Teamcenter integration feature is used | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SIZER Design Tool for SINAMICS | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Solid Edge | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Solid Edge Technical Publication | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Solid Edge Wiring and Harness Design | >= 2020 SP2002 | Workaround | Only affected if Teamcenter integration feature is used | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Spectrum Power 4 | all versions only with component jROS in version 3.0.0 | Fix | Patch available for V4.70 SP9 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Spectrum Power 7 | all except < V2.30 SP2 without component jROS | Fix | Patch available for V21Q4 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SPPA-T3000 SeS3000 Security Server | all | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-714170.pdf) |
-| Siemens     | Teamcenter | >= V13.1 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Active Workspace | >= V4.3 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Briefcase Browser | >= V13.1 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Data Share Manager | >= V13.1 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Deployment Center | >= V3.1 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Dispatcher Service | >= V11.3 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter EDA | >= V2.3 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter FMS | >= V11.3 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Teamcenter | all | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Teamcenter Integration for NX (TcIN) | <= NX 2007 | Workaround | Also known as "NX Managed Mode" | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Integration Framework | <= 13.2 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter MBSE Gateway | >= 4.0 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Mendix Connector | V1.0 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Microservices Framework | >= 5.1 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Polarion Integration | >= 5.1 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Rapid Start | >= V13.1 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Reporting and Analytics | All versions based on Java SOA client >= V11.3 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Requirements Integrator | All versions based on Java SOA client >= V11.3 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Retail Footwear and Apparel | >= 4.3 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Security Services | >= V11.3 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Supplier Collaboration | >= V5.1 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter System Modeling Workbench | All versions based on Java SOA client >= V11.3 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Technical Publishing | >= V2.10 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | VeSys | >= 2019.1 SP1912 | Workaround | Only vulnerable if Teamcenter integration feature is used | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | XHQ | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Xpedition Enterprise | >= VX.2.6 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Xpedition Package Integrator | >= VX.2.6 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Sitecore    | Sitecore Content Hub | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Sitecore CDP | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Sitecore Personalize | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Boxever | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Sitecore OrderCloud | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Moosend | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Sitecore Send | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Sitecore Discover | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Sitecore XP | <= 9.1 (with SOLR as Content Search provider) | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Siemens     | XHQ | | Not vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Xpedition EDM Client | VX.2.6-VX.2.10 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Xpedition EDM Server | VX.2.6-VX.2.10 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Xpedition Package Integrator | VX.2.6-VX.2.10 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Sitecore    | Sitecore Content Hub | | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Sitecore CDP | | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Sitecore Personalize | | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Boxever | | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Sitecore OrderCloud | | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Moosend | | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Sitecore Send | | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Sitecore Discover | | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Sitecore XP | <= 9.1 (with SOLR as Content Search provider) | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
 | Sitecore    | Sitecore XP | >= 9.2 (with SOLR as Content Search provider) | Workaround | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Sitecore XP | all (with Azure Search as Content Search provider) | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Sitecore Managed Cloud | customers who host Solr using SearchStax | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Sitecore XP | all (with Azure Search as Content Search provider) | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Sitecore Managed Cloud | customers who host Solr using SearchStax | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
 | Sitecore    | Sitecore Managed Cloud | customers who bring their own Solr | Workaround | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
-| Sitecore    | Sitecore Managed Cloud | customers who do not use Solr | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
+| Sitecore    | Sitecore Managed Cloud | customers who do not use Solr | Not vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
 | Snow Software | Snow Commander | 8.0.x - 8.9.x | Workaround | | [source](https://community.snowsoftware.com/s/article/LOG4J-Vulnerability), [workaround](https://community.snowsoftware.com/s/article/SnowCommander-LOG4J2-XML-library-version-used-is-exposed-to-VULNERABILITY-CVE-2021-44228)|
 | Snow Software | VM Access Proxy | >= 3.0 | Workaround | | [source](https://community.snowsoftware.com/s/article/LOG4J-Vulnerability), [workaround](https://community.snowsoftware.com/s/article/VM-ACCESS-PROXY-LOG4J2-XML-library-version-used-is-exposed-to-VULNERABILITY-CVE-2021-44228)|
 | SolarWinds      | Database Performance Analyzer | 2021.1.x, 2021.3.x, 2022.1.x | Workaround | | [source](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228), [workaround](https://support.solarwinds.com/SuccessCenter/s/article/Database-Performance-Analyzer-DPA-and-the-Apache-Log4j-Vulnerability-CVE-2021-44228?language=en_US) |
@@ -2239,17 +2209,17 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | SonicWall       | WNM |  | Not vuln | |  [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
 | SonicWall       | WXA |  | Not vuln | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
 | Sophos          | Cloud Optix |  | Fix | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
-| Sophos          | Reflexion |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
-| Sophos          | SG UTM | All | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
-| Sophos          | SG UTM Manager (SUM)  | All | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
-| Sophos          | Sophos Central |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
-| Sophos          | Sophos Firewall | All | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
-| Sophos          | Sophos Home |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| Sophos          | Reflexion |  | Not vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| Sophos          | SG UTM | All | Not vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| Sophos          | SG UTM Manager (SUM)  | All | Not vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| Sophos          | Sophos Central |  | Not vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| Sophos          | Sophos Firewall | All | Not vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| Sophos          | Sophos Home |  | Not vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
 | Sophos          | Sophos Mobile EAS Proxy | 9.7.2 | Fix | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
-| Sophos          | Sophos Mobile |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
-| Sophos          | Sophos ZTNA |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| Sophos          | Sophos Mobile |  | Not vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| Sophos          | Sophos ZTNA |  | Not vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
 | SOS (Berlin)    | Jobscheduler | 1.12.15, 1.13.10, 2.2.0, 2.1.3 | Fix | | [source](https://www.sos-berlin.com/en/news-maintenance-releases-and-patches-mitigation-log4j-vulnerabilities) |
-| Specops Software | All |  | Not Vuln | | [source](https://specopssoft.com/blog/apache-log4j-vulnerability/) |
+| Specops Software | All |  | Not vuln | | [source](https://specopssoft.com/blog/apache-log4j-vulnerability/) |
 | Splunk          | Add-On: Java Management Extensions | 3.0.0, 2.1.0 | Vulnerable | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Add-On: JBoss | 3.0.0, 2.1.0 | Vulnerable | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Add-On: Tomcat | 3.0.0, 2.1.0 | Vulnerable | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
@@ -2367,10 +2337,10 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Tesorion | SOC-appliances and software | all | Fix | Potential Log4j impact mitigated | [source](https://www.tesorion.nl/en/posts/tesorion-products-not-vulnerable-to-log4j/) |
 | TheHive | Cortex | all | Not vuln | |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/) |
 | TheHive | TheHive | all | Not vuln | |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/) |
-| Tools4ever | HelloID | All | Not Vuln |  | [source](https://forum.helloid.com/forum/main-forum/642-log4j-vulnerability) |
-| TOPdesk | TOPdesk SaaS | all | Not Vuln |  | [source](vendor-statements/TOPdesk.png) |
-| TOPdesk | TOPdesk On-Premises Virtual Appliance | all | Not Vuln | Although the standard product is not vulnerable, we advise our customers to scan for vulnerabilies if they modified the product, installed add-ons or bespoke work | [source](vendor-statements/TOPdesk.png) |
-| TOPdesk | TOPdesk On-Premises Classic | all | Not Vuln | Although the standard product is not vulnerable, we advise our customers to scan for vulnerabilies if they modified the product, installed add-ons or bespoke work | [source](vendor-statements/TOPdesk.png) |
+| Tools4ever | HelloID | All | Not vuln |  | [source](https://forum.helloid.com/forum/main-forum/642-log4j-vulnerability) |
+| TOPdesk | TOPdesk SaaS | all | Not vuln |  | [source](vendor-statements/TOPdesk.png) |
+| TOPdesk | TOPdesk On-Premises Virtual Appliance | all | Not vuln | Although the standard product is not vulnerable, we advise our customers to scan for vulnerabilies if they modified the product, installed add-ons or bespoke work | [source](vendor-statements/TOPdesk.png) |
+| TOPdesk | TOPdesk On-Premises Classic | all | Not vuln | Although the standard product is not vulnerable, we advise our customers to scan for vulnerabilies if they modified the product, installed add-ons or bespoke work | [source](vendor-statements/TOPdesk.png) |
 | Topicus Security | Topicus KeyHub | all | Not vuln | | [source](https://blog.topicus-keyhub.com/topicus-keyhub-is-not-vulnerable-to-cve-2021-44228/) |
 | Tosibox | All products | | Fix | | [source](https://helpdesk.tosibox.com/support/solutions/articles/2100050946-security-advisory-on-vulnerability-in-apache-log4j-library-cve-2021-44228)|
 | TP-Link | Omada SDN Controller (Windows)  | 5.0.29 | Fix | |[source](https://community.tp-link.com/en/business/forum/topic/514452) |
@@ -2379,7 +2349,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Trend Micro | ActiveUpdate  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Apex Central (including as a Service)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Apex One (all versions including SaaS, Mac, and Edge Relay)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| Trend Micro | Cloud App Security  |  | fix | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud App Security  |  | Fix | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Cloud Edge  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Cloud One - Application Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Cloud One - Common Services  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
@@ -2520,9 +2490,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Unify | OpenScape UC | >= 10.2.9.0 | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | Unify | OpenScape Voice | simplex deployments | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | US Signal       | Remote Management and Monitoring platform | | Workaround | |[source](https://ussignal.com/blog/apache-log4j-vulnerability) |
-| USoft | USoft | < 9.1 | Not vuln | | [source](https://community.usoft.com/news-announcements-2/apache-log4j-security-vulnerability-issue-1301) |
-| USoft | USoft | 9.1 | Fix | Fixed in 9.1.1S | [source](https://community.usoft.com/product-updates/release-notes-9-1-1s-log4j-security-vulnerability-fix-1302) |
-| USoft | USoft | 10.0 | Fix | Fixed in 10.0.1C+ | [source](https://community.usoft.com/product-updates/release-notes-10-0-1c-log4j-security-vulnerability-fix-1300) |
+| USoft | USoft | 9.1.1F | Vulnerable | Found by manual scanning | [proof](<https://ibb.co/tqV40qB>) |
 
 ### V
 
@@ -2588,7 +2556,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | VMware       | vRealize Operations    | 8.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87076) |
 | VMware       | vRealize Operations Cloud Proxy     | Any | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87080) |
 | VMware       | vRealize Orchestrator   | 8.x, 7.x | Vulnerable |   | [source](https://kb.vmware.com/s/article/87068)|
-| VMware       | vSphere ESXi | Unknown | Not Vuln |   | [source](https://kb.vmware.com/s/article/87068) |
+| VMware       | vSphere ESXi | Unknown | Not vuln |   | [source](https://kb.vmware.com/s/article/87068) |
 | VMware       | Workspace ONE Access   | 21.x, 20.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87090) |
 | VMware       | Workspace ONE Access Connector (VMware Identity Manager Connector)  | 19.03.0.1, 20.x, 21.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87091)|
 | Vuze         | Vuze Torrent (desktop/server/mobile) | Revision 44261 | Investigation | Also know as Azureus | [source](http://svn.vuze.com/public/client/trunk/uis/lib/), [vendor](https://www.vuze.com/) |
@@ -2598,13 +2566,13 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Supplier | Product | Version | Status | Notes | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Watcher | [Watcher](https://github.com/thalesgroup-cert/Watcher) | all | Not vuln | | [source](https://twitter.com/felix_hrn/status/1470387338001977344) |
-| WatchGuard | AuthPoint | Cloud | Fixed | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
+| WatchGuard | AuthPoint | Cloud | Fix | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
 | WatchGuard | Dimension | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
 | WatchGuard | Firebox | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
-| WatchGuard | Threat Detection and Response | Cloud | Fixed | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
+| WatchGuard | Threat Detection and Response | Cloud | Fix | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
 | WatchGuard | WatchGuard EPDR and Panda AD360 | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
 | WatchGuard | WatchGuard System Manager, Dimension, WatchGuard EPDR and Panda AD360 | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
-| WatchGuard | Wi-Fi Cloud | Cloud | Fixed | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
+| WatchGuard | Wi-Fi Cloud | Cloud | Fix | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
 | Weblib | Ucopia | | Not vuln | | [source](vendor-statements/Ucopia.png)  |
 | Wibu Systems | CodeMeter Keyring for TIA Portal  | > 1.30 | Fix | Only the Password Manager is affected | [source](https://cdn.wibu.com/fileadmin/wibu_downloads/security_advisories/Advisory_WIBU-211213-01.pdf)|
 | Wibu Systems | CodeMeter Cloud Lite  | > 2.2 | Fix |  | [source](https://cdn.wibu.com/fileadmin/wibu_downloads/security_advisories/Advisory_WIBU-211213-01.pdf)|
@@ -2649,7 +2617,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Xerox | DocuShare | | Not vuln | DocuShare using Solr search is vulnerable, see below. | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228.pdf) |
 | Xerox | DocuShare Flex | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228.pdf) |
 | Xerox | DocuShare Go | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228.pdf) |
-| Xerox | DocuShare using Solr search | 7.5 hotfix 11 | Fixed | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228.pdf) |
+| Xerox | DocuShare using Solr search | 7.5 hotfix 11 | Fix | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228.pdf) |
 | Xerox | EC8036/EC8056 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
 | Xerox | iGen 5 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
 | Xerox | Instant Print Kiosk | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
